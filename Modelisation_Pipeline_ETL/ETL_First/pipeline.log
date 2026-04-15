@@ -1,0 +1,72 @@
+2026-04-15 11:23:49,124 - INFO - 🚀 PIPELINE START
+2026-04-15 11:23:49,124 - INFO - 📥 Extraction communes
+2026-04-15 11:23:49,130 - INFO - 📥 Extraction secteurs
+2026-04-15 11:23:49,134 - INFO - 📥 Extraction entreprises
+2026-04-15 11:23:49,141 - INFO - 💾 Loading SQLite
+2026-04-15 11:23:49,143 - ERROR - ❌ ERROR: UNIQUE constraint failed: communes.code_insee
+2026-04-15 11:25:27,321 - INFO - 🚀 PIPELINE START
+2026-04-15 11:25:27,321 - INFO - 📥 Extraction communes
+2026-04-15 11:25:27,331 - INFO - 📥 Extraction secteurs
+2026-04-15 11:25:27,338 - INFO - 📥 Extraction entreprises
+2026-04-15 11:25:27,347 - INFO - 💾 Loading SQLite
+2026-04-15 11:25:27,369 - ERROR - ❌ ERROR: table entreprises has no column named nom_commune
+2026-04-15 11:26:46,889 - INFO - 🚀 PIPELINE START
+2026-04-15 11:26:46,889 - INFO - 📥 Extraction communes
+2026-04-15 11:26:46,896 - INFO - 📥 Extraction secteurs
+2026-04-15 11:26:46,899 - INFO - 📥 Extraction entreprises
+2026-04-15 11:26:46,907 - INFO - 💾 Loading SQLite
+2026-04-15 11:26:46,918 - ERROR - ❌ ERROR: table entreprises has no column named nom_commune
+2026-04-15 11:27:50,641 - INFO - 🚀 PIPELINE START
+2026-04-15 11:27:50,641 - INFO - 📥 Extraction communes
+2026-04-15 11:27:50,648 - INFO - 📥 Extraction secteurs
+2026-04-15 11:27:50,652 - INFO - 📥 Extraction entreprises
+2026-04-15 11:27:50,660 - INFO - 💾 Loading SQLite
+2026-04-15 11:27:50,660 - ERROR - ❌ ERROR: name 'sqlite3' is not defined
+2026-04-15 11:28:33,453 - INFO - 🚀 PIPELINE START
+2026-04-15 11:28:33,453 - INFO - 📥 Extraction communes
+2026-04-15 11:28:33,464 - INFO - 📥 Extraction secteurs
+2026-04-15 11:28:33,470 - INFO - 📥 Extraction entreprises
+2026-04-15 11:28:33,480 - INFO - 💾 Loading SQLite
+2026-04-15 11:28:33,496 - ERROR - ❌ ERROR: table entreprises has no column named nom_commune
+2026-04-15 11:29:37,558 - INFO - 🚀 PIPELINE START
+2026-04-15 11:29:37,558 - INFO - 📥 Extraction communes
+2026-04-15 11:29:37,568 - INFO - 📥 Extraction secteurs
+2026-04-15 11:29:37,574 - INFO - 📥 Extraction entreprises
+2026-04-15 11:29:37,585 - INFO - 💾 Loading SQLite
+2026-04-15 11:29:37,622 - ERROR - ❌ ERROR: table communes has no column named cp_entreprise
+2026-04-15 11:30:41,408 - INFO - 🚀 PIPELINE START
+2026-04-15 11:30:41,408 - INFO - 📥 Extraction communes
+2026-04-15 11:30:41,414 - INFO - 📥 Extraction secteurs
+2026-04-15 11:30:41,419 - INFO - 📥 Extraction entreprises
+2026-04-15 11:30:41,426 - INFO - 💾 Loading SQLite
+2026-04-15 11:30:41,438 - ERROR - ❌ ERROR: "['code_postale'] not in index"
+2026-04-15 11:32:02,657 - INFO - 🚀 PIPELINE START
+2026-04-15 11:32:02,657 - INFO - 📥 Extraction communes
+2026-04-15 11:32:02,668 - INFO - 📥 Extraction secteurs
+2026-04-15 11:32:02,675 - INFO - 📥 Extraction entreprises
+2026-04-15 11:32:02,685 - INFO - 💾 Loading SQLite
+2026-04-15 11:32:02,729 - ERROR - ❌ ERROR: "['code_postale'] not in index"
+2026-04-15 11:32:08,374 - INFO - 🚀 PIPELINE START
+2026-04-15 11:32:08,375 - INFO - 📥 Extraction communes
+2026-04-15 11:32:08,381 - INFO - 📥 Extraction secteurs
+2026-04-15 11:32:08,385 - INFO - 📥 Extraction entreprises
+2026-04-15 11:32:08,393 - INFO - 💾 Loading SQLite
+2026-04-15 11:32:08,430 - ERROR - ❌ ERROR: "['code_postale'] not in index"
+2026-04-15 11:33:24,885 - INFO - 🚀 PIPELINE START
+2026-04-15 11:33:24,885 - INFO - 📥 Extraction communes
+2026-04-15 11:33:24,891 - INFO - 📥 Extraction secteurs
+2026-04-15 11:33:24,897 - INFO - 📥 Extraction entreprises
+2026-04-15 11:33:24,904 - INFO - 💾 Loading SQLite
+2026-04-15 11:33:24,918 - ERROR - ❌ ERROR: table communes has no column named code_postal
+2026-04-15 11:33:54,834 - INFO - 🚀 PIPELINE START
+2026-04-15 11:33:54,834 - INFO - 📥 Extraction communes
+2026-04-15 11:33:54,842 - INFO - 📥 Extraction secteurs
+2026-04-15 11:33:54,847 - INFO - 📥 Extraction entreprises
+2026-04-15 11:33:54,855 - INFO - 💾 Loading SQLite
+2026-04-15 11:33:54,886 - ERROR - ❌ ERROR: table communes has no column named code_postal
+2026-04-15 11:35:09,002 - INFO - 🚀 PIPELINE START
+2026-04-15 11:35:09,002 - INFO - 📥 Extraction communes
+2026-04-15 11:35:09,009 - INFO - 📥 Extraction secteurs
+2026-04-15 11:35:09,012 - INFO - 📥 Extraction entreprises
+2026-04-15 11:35:09,020 - INFO - 💾 Loading SQLite
+2026-04-15 11:35:09,046 - INFO - ✅ PIPELINE SUCCESS
