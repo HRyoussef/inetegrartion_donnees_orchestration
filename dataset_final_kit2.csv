@@ -1,491 +1,491 @@
-nom_commune,nom,siren,code_naf,tranche_effectif,latitude,longitude,adresse,cp_entreprise,libelle_naf,libelle_tranche
-Grenoble,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Grenoble,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Grenoble,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Grenoble,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Grenoble,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Grenoble,CROIX ROUGE FRANCAISE,775672272,88.99B,53,,,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
-Grenoble,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Grenoble,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,,,20 RUE EUGENE FLACHAT 75017 PARIS,75017,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
-Grenoble,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-Grenoble,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Voiron,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Voiron,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Voiron,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Voiron,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Voiron,CROIX ROUGE FRANCAISE,775672272,88.99B,53,,,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
-Voiron,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Voiron,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,,,20 RUE EUGENE FLACHAT 75017 PARIS,75017,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
-Voiron,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-Voiron,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Voiron,LIDL,343262622,47.11D,53,,,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,Supermarchés,10 000 salariés et plus
-Vienne,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Vienne,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Vienne,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Vienne,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Vienne,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Vienne,CROIX ROUGE FRANCAISE,775672272,88.99B,53,,,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
-Vienne,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Vienne,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-Vienne,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Vienne,LIDL,343262622,47.11D,53,,,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,Supermarchés,10 000 salariés et plus
-Bourgoin-Jallieu,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Bourgoin-Jallieu,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Bourgoin-Jallieu,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Bourgoin-Jallieu,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Bourgoin-Jallieu,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Bourgoin-Jallieu,CROIX ROUGE FRANCAISE,775672272,88.99B,53,,,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
-Bourgoin-Jallieu,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Bourgoin-Jallieu,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,,,20 RUE EUGENE FLACHAT 75017 PARIS,75017,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
-Bourgoin-Jallieu,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-Bourgoin-Jallieu,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Échirolles,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Échirolles,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Échirolles,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Échirolles,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Échirolles,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Échirolles,CROIX ROUGE FRANCAISE,775672272,88.99B,53,,,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
-Échirolles,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Échirolles,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,,,20 RUE EUGENE FLACHAT 75017 PARIS,75017,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
-Échirolles,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-Échirolles,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Saint-Martin-d'Hères,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Saint-Martin-d'Hères,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Saint-Martin-d'Hères,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Saint-Martin-d'Hères,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Saint-Martin-d'Hères,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Saint-Martin-d'Hères,CROIX ROUGE FRANCAISE,775672272,88.99B,53,,,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
-Saint-Martin-d'Hères,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Saint-Martin-d'Hères,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,,,20 RUE EUGENE FLACHAT 75017 PARIS,75017,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
-Saint-Martin-d'Hères,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-Saint-Martin-d'Hères,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Villefontaine,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Villefontaine,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Villefontaine,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Villefontaine,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Villefontaine,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Villefontaine,CROIX ROUGE FRANCAISE,775672272,88.99B,53,,,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
-Villefontaine,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Villefontaine,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-Villefontaine,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Villefontaine,LIDL,343262622,47.11D,53,,,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,Supermarchés,10 000 salariés et plus
-Crolles,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Crolles,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Crolles,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Crolles,CROIX ROUGE FRANCAISE,775672272,88.99B,53,,,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
-Crolles,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Crolles,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Crolles,LIDL,343262622,47.11D,53,,,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,Supermarchés,10 000 salariés et plus
-Crolles,SNCF VOYAGEURS,519037584,49.10Z,53,,,1 RUE CAMILLE MOKE 93210 SAINT-DENIS,93210,Transport ferroviaire interurbain de voyageurs,10 000 salariés et plus
-Crolles,CREDIT LYONNAIS,954509741,64.19Z,53,,,18 RUE DE LA REPUBLIQUE 69002 LYON,69002,Autres intermédiations monétaires,10 000 salariés et plus
-Crolles,PICARD SURGELES,784939688,47.11A,52,,,1 ROUTE MILITAIRE 77300 FONTAINEBLEAU,77300,Commerce de détail de produits surgelés,5 000 à 9 999 salariés
-Meylan,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Meylan,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Meylan,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Meylan,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Meylan,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Meylan,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Meylan,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,,,20 RUE EUGENE FLACHAT 75017 PARIS,75017,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
-Meylan,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-Meylan,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Meylan,LIDL,343262622,47.11D,53,,,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,Supermarchés,10 000 salariés et plus
-Pont-de-Claix,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Pont-de-Claix,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Pont-de-Claix,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Pont-de-Claix,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Pont-de-Claix,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Pont-de-Claix,CROIX ROUGE FRANCAISE,775672272,88.99B,53,,,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
-Pont-de-Claix,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Pont-de-Claix,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,,,20 RUE EUGENE FLACHAT 75017 PARIS,75017,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
-Pont-de-Claix,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-Pont-de-Claix,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Vizille,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Vizille,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Vizille,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Vizille,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Vizille,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Vizille,LIDL,343262622,47.11D,53,,,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,Supermarchés,10 000 salariés et plus
-Vizille,CREDIT LYONNAIS,954509741,64.19Z,53,,,18 RUE DE LA REPUBLIQUE 69002 LYON,69002,Autres intermédiations monétaires,10 000 salariés et plus
-Vizille,ENEDIS,444608442,35.13Z,53,,,4 PLACE DE LA PYRAMIDE 92800 PUTEAUX,92800,Distribution d'électricité,10 000 salariés et plus
-Vizille,SODEXO SANTE MEDICO SOCIAL,338253081,56.29A,52,,,6 RUE DE LA REDOUTE 78280 GUYANCOURT,78280,Restauration collective sous contrat,5 000 à 9 999 salariés
-Vizille,ENGIE ENERGIE SERVICES,552046955,35.30Z,53,,,67 RUE JULES FERRY 92250 LA GARENNE-COLOMBES,92250,Production et distribution de vapeur et d'air conditionné,10 000 salariés et plus
-Voreppe,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Voreppe,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Voreppe,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Voreppe,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Voreppe,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Voreppe,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,,,20 RUE EUGENE FLACHAT 75017 PARIS,75017,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
-Voreppe,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Voreppe,MCDONALD'S FRANCE,722003936,68.20B,NN,,,Z I 1 RUE GUSTAVE EIFFEL 78280 GUYANCOURT,78280,Location de terrains et d'autres biens immobiliers,Unités non employeuses
-Voreppe,API RESTAURATION,477181010,56.29A,52,,,384 RUE DU GENERAL DE GAULLE 59370 MONS-EN-BARŒUL,59370,Restauration collective sous contrat,5 000 à 9 999 salariés
-Voreppe,SOGERES,572102176,56.29B,52,,,6 RUE DE LA REDOUTE 78280 GUYANCOURT,78280,Autres services de restauration n.c.a.,5 000 à 9 999 salariés
-Sassenage,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Sassenage,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Sassenage,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Sassenage,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Sassenage,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Sassenage,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Sassenage,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,,,20 RUE EUGENE FLACHAT 75017 PARIS,75017,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
-Sassenage,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-Sassenage,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Sassenage,LIDL,343262622,47.11D,53,,,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,Supermarchés,10 000 salariés et plus
-Fontaine,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Fontaine,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Fontaine,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Fontaine,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Fontaine,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Fontaine,CROIX ROUGE FRANCAISE,775672272,88.99B,53,,,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
-Fontaine,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Fontaine,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,,,20 RUE EUGENE FLACHAT 75017 PARIS,75017,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
-Fontaine,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-Fontaine,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Saint-Egrève,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Saint-Egrève,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Saint-Egrève,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Saint-Egrève,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Saint-Egrève,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Saint-Egrève,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Saint-Egrève,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,,,20 RUE EUGENE FLACHAT 75017 PARIS,75017,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
-Saint-Egrève,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-Saint-Egrève,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Saint-Egrève,LIDL,343262622,47.11D,53,,,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,Supermarchés,10 000 salariés et plus
-Rives,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Rives,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Rives,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Rives,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Rives,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-Rives,OGF SERVICES FUNERAIRES,828160069,96.03Z,02,,,IMMEUBLE CANOPY 6 RUE DU GENERAL AUDRAN 92400 COURBEVOIE,92400,Services funéraires,3 à 5 salariés
-Rives,SNCF VOYAGEURS,519037584,49.10Z,53,,,1 RUE CAMILLE MOKE 93210 SAINT-DENIS,93210,Transport ferroviaire interurbain de voyageurs,10 000 salariés et plus
-Rives,MCDONALD'S FRANCE,722003936,68.20B,NN,,,Z I 1 RUE GUSTAVE EIFFEL 78280 GUYANCOURT,78280,Location de terrains et d'autres biens immobiliers,Unités non employeuses
-Rives,ENGIE,542107651,35.23Z,51,,,67 RUE JULES FERRY 92250 LA GARENNE-COLOMBES,92250,Commerce de combustibles gazeux par conduites,2 000 à 4 999 salariés
-Rives,AMPLIFON FRANCE,318083110,47.74Z,42,,,9 BOULEVARD ROMAIN ROLLAND 75014 PARIS,75014,Commerce de détail d'articles médicaux et orthopédiques en magasin spécialisé,1 000 à 1 999 salariés
-Roussillon,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Roussillon,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Roussillon,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Roussillon,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Roussillon,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,,,20 RUE EUGENE FLACHAT 75017 PARIS,75017,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
-Roussillon,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-Roussillon,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Roussillon,LIDL,343262622,47.11D,53,,,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,Supermarchés,10 000 salariés et plus
-Roussillon,SNCF VOYAGEURS,519037584,49.10Z,53,,,1 RUE CAMILLE MOKE 93210 SAINT-DENIS,93210,Transport ferroviaire interurbain de voyageurs,10 000 salariés et plus
-Roussillon,CREDIT LYONNAIS,954509741,64.19Z,53,,,18 RUE DE LA REPUBLIQUE 69002 LYON,69002,Autres intermédiations monétaires,10 000 salariés et plus
-Tullins,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Tullins,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Tullins,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Tullins,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Tullins,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Tullins,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Tullins,LIDL,343262622,47.11D,53,,,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,Supermarchés,10 000 salariés et plus
-Tullins,OGF SERVICES FUNERAIRES,828160069,96.03Z,02,,,IMMEUBLE CANOPY 6 RUE DU GENERAL AUDRAN 92400 COURBEVOIE,92400,Services funéraires,3 à 5 salariés
-Tullins,ENEDIS,444608442,35.13Z,53,,,4 PLACE DE LA PYRAMIDE 92800 PUTEAUX,92800,Distribution d'électricité,10 000 salariés et plus
-Tullins,SODEXO SANTE MEDICO SOCIAL,338253081,56.29A,52,,,6 RUE DE LA REDOUTE 78280 GUYANCOURT,78280,Restauration collective sous contrat,5 000 à 9 999 salariés
-La Tour-du-Pin,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-La Tour-du-Pin,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-La Tour-du-Pin,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-La Tour-du-Pin,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-La Tour-du-Pin,CROIX ROUGE FRANCAISE,775672272,88.99B,53,,,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
-La Tour-du-Pin,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-La Tour-du-Pin,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,,,20 RUE EUGENE FLACHAT 75017 PARIS,75017,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
-La Tour-du-Pin,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-La Tour-du-Pin,LIDL,343262622,47.11D,53,,,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,Supermarchés,10 000 salariés et plus
-La Tour-du-Pin,SNCF VOYAGEURS,519037584,49.10Z,53,,,1 RUE CAMILLE MOKE 93210 SAINT-DENIS,93210,Transport ferroviaire interurbain de voyageurs,10 000 salariés et plus
-Moirans,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Moirans,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Moirans,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Moirans,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Moirans,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Moirans,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,,,20 RUE EUGENE FLACHAT 75017 PARIS,75017,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
-Moirans,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Moirans,LIDL,343262622,47.11D,53,,,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,Supermarchés,10 000 salariés et plus
-Moirans,OGF SERVICES FUNERAIRES,828160069,96.03Z,02,,,IMMEUBLE CANOPY 6 RUE DU GENERAL AUDRAN 92400 COURBEVOIE,92400,Services funéraires,3 à 5 salariés
-Moirans,CREDIT LYONNAIS,954509741,64.19Z,53,,,18 RUE DE LA REPUBLIQUE 69002 LYON,69002,Autres intermédiations monétaires,10 000 salariés et plus
-Saint-Marcellin,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Saint-Marcellin,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Saint-Marcellin,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Saint-Marcellin,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Saint-Marcellin,CROIX ROUGE FRANCAISE,775672272,88.99B,53,,,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
-Saint-Marcellin,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Saint-Marcellin,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,,,20 RUE EUGENE FLACHAT 75017 PARIS,75017,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
-Saint-Marcellin,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-Saint-Marcellin,LIDL,343262622,47.11D,53,,,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,Supermarchés,10 000 salariés et plus
-Saint-Marcellin,OGF SERVICES FUNERAIRES,828160069,96.03Z,02,,,IMMEUBLE CANOPY 6 RUE DU GENERAL AUDRAN 92400 COURBEVOIE,92400,Services funéraires,3 à 5 salariés
-Saint-Martin-d'Uriage,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Saint-Martin-d'Uriage,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Saint-Martin-d'Uriage,CARREFOUR PROXIMITE FRANCE,345130488,77.40Z,41,,,ZI ROUTE DE PARIS 14120 MONDEVILLE,14120,"Location-bail de propriété intellectuelle et de produits similaires, à l'exception des œuvres soumises à copyright",500 à 999 salariés
-Saint-Martin-d'Uriage,CREDIT LYONNAIS,954509741,64.19Z,53,,,18 RUE DE LA REPUBLIQUE 69002 LYON,69002,Autres intermédiations monétaires,10 000 salariés et plus
-Saint-Martin-d'Uriage,DISTRIBUTION CASINO FRANCE,428268023,47.11F,53,,,1 COURS ANTOINE GUICHARD 42000 SAINT-ETIENNE,42000,Hypermarchés,10 000 salariés et plus
-Saint-Martin-d'Uriage,FONCIA TRANSACTION FRANCE,503698664,68.31Z,42,,,18-19 - TOUR AURORE 18 PLACE DES REFLETS 92400 COURBEVOIE,92400,Agences immobilières,1 000 à 1 999 salariés
-Saint-Martin-d'Uriage,CAISSE CENTRALE ACTIVITE SOCIALE,775694748,56.29A,42,,,BP 629 8 RUE DE ROSNY 93100 MONTREUIL,93100,Restauration collective sous contrat,1 000 à 1 999 salariés
-Saint-Martin-d'Uriage,LYONNAISE DE BANQUE,954507976,64.19Z,51,,,8 RUE DE LA REPUBLIQUE 69001 LYON,69001,Autres intermédiations monétaires,2 000 à 4 999 salariés
-Saint-Martin-d'Uriage,SOCIETE NATIONALE SNCF,552049447,49.10Z,53,,,2 PLACE AUX ETOILES 93210 SAINT-DENIS,93210,Transport ferroviaire interurbain de voyageurs,10 000 salariés et plus
-Saint-Martin-d'Uriage,CAISSE D'EPARGNE ET DE PREVOYANCE DE RHONE ALPES,384006029,64.19Z,51,,,116 COURS LAFAYETTE 69003 LYON,69003,Autres intermédiations monétaires,2 000 à 4 999 salariés
-Domène,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Domène,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Domène,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Domène,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Domène,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Domène,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Domène,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,,,20 RUE EUGENE FLACHAT 75017 PARIS,75017,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
-Domène,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-Domène,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Domène,SNCF VOYAGEURS,519037584,49.10Z,53,,,1 RUE CAMILLE MOKE 93210 SAINT-DENIS,93210,Transport ferroviaire interurbain de voyageurs,10 000 salariés et plus
-Pontcharra,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Pontcharra,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Pontcharra,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Pontcharra,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Pontcharra,CROIX ROUGE FRANCAISE,775672272,88.99B,53,,,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
-Pontcharra,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Pontcharra,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Pontcharra,LIDL,343262622,47.11D,53,,,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,Supermarchés,10 000 salariés et plus
-Pontcharra,SNCF VOYAGEURS,519037584,49.10Z,53,,,1 RUE CAMILLE MOKE 93210 SAINT-DENIS,93210,Transport ferroviaire interurbain de voyageurs,10 000 salariés et plus
-Pontcharra,CARREFOUR PROXIMITE FRANCE,345130488,77.40Z,41,,,ZI ROUTE DE PARIS 14120 MONDEVILLE,14120,"Location-bail de propriété intellectuelle et de produits similaires, à l'exception des œuvres soumises à copyright",500 à 999 salariés
-Bourg-d'Oisans,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Bourg-d'Oisans,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Bourg-d'Oisans,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Bourg-d'Oisans,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Bourg-d'Oisans,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,,,20 RUE EUGENE FLACHAT 75017 PARIS,75017,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
-Bourg-d'Oisans,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-Bourg-d'Oisans,CARREFOUR PROXIMITE FRANCE,345130488,77.40Z,41,,,ZI ROUTE DE PARIS 14120 MONDEVILLE,14120,"Location-bail de propriété intellectuelle et de produits similaires, à l'exception des œuvres soumises à copyright",500 à 999 salariés
-Bourg-d'Oisans,ENEDIS,444608442,35.13Z,53,,,4 PLACE DE LA PYRAMIDE 92800 PUTEAUX,92800,Distribution d'électricité,10 000 salariés et plus
-Bourg-d'Oisans,DISTRIBUTION CASINO FRANCE,428268023,47.11F,53,,,1 COURS ANTOINE GUICHARD 42000 SAINT-ETIENNE,42000,Hypermarchés,10 000 salariés et plus
-Bourg-d'Oisans,FIDUCIAL CONSULTING,972200018,82.11Z,42,,,41 RUE DU CAPITAINE GUYNEMER 92400 COURBEVOIE,92400,Services administratifs combinés de bureau,1 000 à 1 999 salariés
-Vif,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Vif,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Vif,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Vif,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Vif,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Vif,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,,,20 RUE EUGENE FLACHAT 75017 PARIS,75017,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
-Vif,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Vif,API RESTAURATION,477181010,56.29A,52,,,384 RUE DU GENERAL DE GAULLE 59370 MONS-EN-BARŒUL,59370,Restauration collective sous contrat,5 000 à 9 999 salariés
-Vif,DISTRIBUTION CASINO FRANCE,428268023,47.11F,53,,,1 COURS ANTOINE GUICHARD 42000 SAINT-ETIENNE,42000,Hypermarchés,10 000 salariés et plus
-Vif,EVANCIA,447818600,88.91A,51,,,60 AVENUE DE L’EUROPE 92270 BOIS-COLOMBES,92270,Accueil de jeunes enfants,2 000 à 4 999 salariés
-Villard-Bonnot,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Villard-Bonnot,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Villard-Bonnot,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Villard-Bonnot,CROIX ROUGE FRANCAISE,775672272,88.99B,53,,,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
-Villard-Bonnot,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Villard-Bonnot,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Villard-Bonnot,LIDL,343262622,47.11D,53,,,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,Supermarchés,10 000 salariés et plus
-Villard-Bonnot,SNCF VOYAGEURS,519037584,49.10Z,53,,,1 RUE CAMILLE MOKE 93210 SAINT-DENIS,93210,Transport ferroviaire interurbain de voyageurs,10 000 salariés et plus
-Villard-Bonnot,CARREFOUR PROXIMITE FRANCE,345130488,77.40Z,41,,,ZI ROUTE DE PARIS 14120 MONDEVILLE,14120,"Location-bail de propriété intellectuelle et de produits similaires, à l'exception des œuvres soumises à copyright",500 à 999 salariés
-Villard-Bonnot,CREDIT LYONNAIS,954509741,64.19Z,53,,,18 RUE DE LA REPUBLIQUE 69002 LYON,69002,Autres intermédiations monétaires,10 000 salariés et plus
-Jarrie,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Jarrie,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Jarrie,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Jarrie,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Jarrie,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Jarrie,CROIX ROUGE FRANCAISE,775672272,88.99B,53,,,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
-Jarrie,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Jarrie,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,,,20 RUE EUGENE FLACHAT 75017 PARIS,75017,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
-Jarrie,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-Jarrie,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Charvieu-Chavagneux,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Charvieu-Chavagneux,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Charvieu-Chavagneux,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Charvieu-Chavagneux,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-Charvieu-Chavagneux,LIDL,343262622,47.11D,53,,,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,Supermarchés,10 000 salariés et plus
-Charvieu-Chavagneux,CARREFOUR PROXIMITE FRANCE,345130488,77.40Z,41,,,ZI ROUTE DE PARIS 14120 MONDEVILLE,14120,"Location-bail de propriété intellectuelle et de produits similaires, à l'exception des œuvres soumises à copyright",500 à 999 salariés
-Charvieu-Chavagneux,CREDIT LYONNAIS,954509741,64.19Z,53,,,18 RUE DE LA REPUBLIQUE 69002 LYON,69002,Autres intermédiations monétaires,10 000 salariés et plus
-Charvieu-Chavagneux,MCDONALD'S FRANCE,722003936,68.20B,NN,,,Z I 1 RUE GUSTAVE EIFFEL 78280 GUYANCOURT,78280,Location de terrains et d'autres biens immobiliers,Unités non employeuses
-Charvieu-Chavagneux,API RESTAURATION,477181010,56.29A,52,,,384 RUE DU GENERAL DE GAULLE 59370 MONS-EN-BARŒUL,59370,Restauration collective sous contrat,5 000 à 9 999 salariés
-Charvieu-Chavagneux,SOGERES,572102176,56.29B,52,,,6 RUE DE LA REDOUTE 78280 GUYANCOURT,78280,Autres services de restauration n.c.a.,5 000 à 9 999 salariés
-Saint-Quentin-Fallavier,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Saint-Quentin-Fallavier,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Saint-Quentin-Fallavier,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Saint-Quentin-Fallavier,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Saint-Quentin-Fallavier,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Saint-Quentin-Fallavier,CROIX ROUGE FRANCAISE,775672272,88.99B,53,,,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
-Saint-Quentin-Fallavier,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Saint-Quentin-Fallavier,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-Saint-Quentin-Fallavier,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Saint-Quentin-Fallavier,LIDL,343262622,47.11D,53,,,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,Supermarchés,10 000 salariés et plus
-Montbonnot-Saint-Martin,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Montbonnot-Saint-Martin,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Montbonnot-Saint-Martin,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Montbonnot-Saint-Martin,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Montbonnot-Saint-Martin,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Montbonnot-Saint-Martin,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Montbonnot-Saint-Martin,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,,,20 RUE EUGENE FLACHAT 75017 PARIS,75017,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
-Montbonnot-Saint-Martin,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-Montbonnot-Saint-Martin,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Montbonnot-Saint-Martin,LIDL,343262622,47.11D,53,,,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,Supermarchés,10 000 salariés et plus
-Claix,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Claix,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Claix,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Claix,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Claix,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Claix,CROIX ROUGE FRANCAISE,775672272,88.99B,53,,,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
-Claix,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Claix,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-Claix,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Claix,CARREFOUR PROXIMITE FRANCE,345130488,77.40Z,41,,,ZI ROUTE DE PARIS 14120 MONDEVILLE,14120,"Location-bail de propriété intellectuelle et de produits similaires, à l'exception des œuvres soumises à copyright",500 à 999 salariés
-Seyssinet-Pariset,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Seyssinet-Pariset,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Seyssinet-Pariset,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Seyssinet-Pariset,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Seyssinet-Pariset,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Seyssinet-Pariset,CROIX ROUGE FRANCAISE,775672272,88.99B,53,,,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
-Seyssinet-Pariset,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Seyssinet-Pariset,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,,,20 RUE EUGENE FLACHAT 75017 PARIS,75017,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
-Seyssinet-Pariset,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-Seyssinet-Pariset,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Poisat,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Poisat,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Poisat,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Poisat,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Poisat,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Poisat,CROIX ROUGE FRANCAISE,775672272,88.99B,53,,,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
-Poisat,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Poisat,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,,,20 RUE EUGENE FLACHAT 75017 PARIS,75017,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
-Poisat,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-Poisat,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Gières,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Gières,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Gières,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Gières,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Gières,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Gières,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Gières,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,,,20 RUE EUGENE FLACHAT 75017 PARIS,75017,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
-Gières,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-Gières,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Gières,LIDL,343262622,47.11D,53,,,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,Supermarchés,10 000 salariés et plus
-Eybens,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Eybens,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Eybens,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Eybens,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Eybens,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Eybens,CROIX ROUGE FRANCAISE,775672272,88.99B,53,,,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
-Eybens,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Eybens,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,,,20 RUE EUGENE FLACHAT 75017 PARIS,75017,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
-Eybens,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-Eybens,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Bresson,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Bresson,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Bresson,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Bresson,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Bresson,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Bresson,CROIX ROUGE FRANCAISE,775672272,88.99B,53,,,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
-Bresson,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Bresson,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,,,20 RUE EUGENE FLACHAT 75017 PARIS,75017,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
-Bresson,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-Bresson,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Varces-Allières-et-Risset,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Varces-Allières-et-Risset,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Varces-Allières-et-Risset,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Varces-Allières-et-Risset,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Varces-Allières-et-Risset,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Varces-Allières-et-Risset,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Varces-Allières-et-Risset,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,,,20 RUE EUGENE FLACHAT 75017 PARIS,75017,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
-Varces-Allières-et-Risset,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Varces-Allières-et-Risset,CARREFOUR PROXIMITE FRANCE,345130488,77.40Z,41,,,ZI ROUTE DE PARIS 14120 MONDEVILLE,14120,"Location-bail de propriété intellectuelle et de produits similaires, à l'exception des œuvres soumises à copyright",500 à 999 salariés
-Varces-Allières-et-Risset,CREDIT LYONNAIS,954509741,64.19Z,53,,,18 RUE DE LA REPUBLIQUE 69002 LYON,69002,Autres intermédiations monétaires,10 000 salariés et plus
-Champagnier,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Champagnier,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Champagnier,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Champagnier,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Champagnier,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Champagnier,CROIX ROUGE FRANCAISE,775672272,88.99B,53,,,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
-Champagnier,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Champagnier,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,,,20 RUE EUGENE FLACHAT 75017 PARIS,75017,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
-Champagnier,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-Champagnier,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Murianette,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Murianette,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Murianette,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Murianette,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Murianette,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Murianette,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Murianette,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,,,20 RUE EUGENE FLACHAT 75017 PARIS,75017,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
-Murianette,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-Murianette,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Murianette,LIDL,343262622,47.11D,53,,,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,Supermarchés,10 000 salariés et plus
-Seyssins,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Seyssins,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Seyssins,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Seyssins,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Seyssins,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Seyssins,CROIX ROUGE FRANCAISE,775672272,88.99B,53,,,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
-Seyssins,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Seyssins,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,,,20 RUE EUGENE FLACHAT 75017 PARIS,75017,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
-Seyssins,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-Seyssins,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Saint-Paul-de-Varces,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Saint-Paul-de-Varces,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Saint-Paul-de-Varces,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Saint-Paul-de-Varces,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Saint-Paul-de-Varces,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Saint-Paul-de-Varces,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,,,20 RUE EUGENE FLACHAT 75017 PARIS,75017,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
-Saint-Paul-de-Varces,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Saint-Paul-de-Varces,DISTRIBUTION CASINO FRANCE,428268023,47.11F,53,,,1 COURS ANTOINE GUICHARD 42000 SAINT-ETIENNE,42000,Hypermarchés,10 000 salariés et plus
-Saint-Paul-de-Varces,CAP SUD FRANCE,531757029,43.22B,NN,,,85 RUE CONDORCET 38090 VAULX-MILIEU,38090,Travaux d'installation d'équipements thermiques et de climatisation,Unités non employeuses
-Saint-Paul-de-Varces,EVANCIA,447818600,88.91A,51,,,60 AVENUE DE L’EUROPE 92270 BOIS-COLOMBES,92270,Accueil de jeunes enfants,2 000 à 4 999 salariés
-Veurey-Voroize,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Veurey-Voroize,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Veurey-Voroize,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Veurey-Voroize,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Veurey-Voroize,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Veurey-Voroize,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,,,20 RUE EUGENE FLACHAT 75017 PARIS,75017,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
-Veurey-Voroize,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Veurey-Voroize,MCDONALD'S FRANCE,722003936,68.20B,NN,,,Z I 1 RUE GUSTAVE EIFFEL 78280 GUYANCOURT,78280,Location de terrains et d'autres biens immobiliers,Unités non employeuses
-Veurey-Voroize,API RESTAURATION,477181010,56.29A,52,,,384 RUE DU GENERAL DE GAULLE 59370 MONS-EN-BARŒUL,59370,Restauration collective sous contrat,5 000 à 9 999 salariés
-Veurey-Voroize,SOGERES,572102176,56.29B,52,,,6 RUE DE LA REDOUTE 78280 GUYANCOURT,78280,Autres services de restauration n.c.a.,5 000 à 9 999 salariés
-Noyarey,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Noyarey,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Noyarey,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Noyarey,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Noyarey,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-Noyarey,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Noyarey,CREDIT LYONNAIS,954509741,64.19Z,53,,,18 RUE DE LA REPUBLIQUE 69002 LYON,69002,Autres intermédiations monétaires,10 000 salariés et plus
-Noyarey,PICARD SURGELES,784939688,47.11A,52,,,1 ROUTE MILITAIRE 77300 FONTAINEBLEAU,77300,Commerce de détail de produits surgelés,5 000 à 9 999 salariés
-Noyarey,SODEXO ENTREPRISES,338253230,56.29A,52,,,6 RUE DE LA REDOUTE 78280 GUYANCOURT,78280,Restauration collective sous contrat,5 000 à 9 999 salariés
-Noyarey,SODEXO SANTE MEDICO SOCIAL,338253081,56.29A,52,,,6 RUE DE LA REDOUTE 78280 GUYANCOURT,78280,Restauration collective sous contrat,5 000 à 9 999 salariés
-Quaix-en-Chartreuse,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Quaix-en-Chartreuse,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Quaix-en-Chartreuse,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Quaix-en-Chartreuse,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Quaix-en-Chartreuse,CREDIT LYONNAIS,954509741,64.19Z,53,,,18 RUE DE LA REPUBLIQUE 69002 LYON,69002,Autres intermédiations monétaires,10 000 salariés et plus
-Quaix-en-Chartreuse,SODEXO SANTE MEDICO SOCIAL,338253081,56.29A,52,,,6 RUE DE LA REDOUTE 78280 GUYANCOURT,78280,Restauration collective sous contrat,5 000 à 9 999 salariés
-Quaix-en-Chartreuse,DISTRIBUTION CASINO FRANCE,428268023,47.11F,53,,,1 COURS ANTOINE GUICHARD 42000 SAINT-ETIENNE,42000,Hypermarchés,10 000 salariés et plus
-Quaix-en-Chartreuse,MACIF,781452511,65.12Z,53,,,1 RUE JACQUES VANDIER 79000 NIORT,79000,Autres assurances,10 000 salariés et plus
-Quaix-en-Chartreuse,LYONNAISE DE BANQUE,954507976,64.19Z,51,,,8 RUE DE LA REPUBLIQUE 69001 LYON,69001,Autres intermédiations monétaires,2 000 à 4 999 salariés
-Quaix-en-Chartreuse,GROUPAMA RHONE ALPES AUVERGNE,779838366,65.12Z,51,,,50 RUE DE SAINT-CYR 69009 LYON,69009,Autres assurances,2 000 à 4 999 salariés
-Saint-Ismier,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Saint-Ismier,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Saint-Ismier,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Saint-Ismier,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Saint-Ismier,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-Saint-Ismier,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Saint-Ismier,CARREFOUR PROXIMITE FRANCE,345130488,77.40Z,41,,,ZI ROUTE DE PARIS 14120 MONDEVILLE,14120,"Location-bail de propriété intellectuelle et de produits similaires, à l'exception des œuvres soumises à copyright",500 à 999 salariés
-Saint-Ismier,CREDIT LYONNAIS,954509741,64.19Z,53,,,18 RUE DE LA REPUBLIQUE 69002 LYON,69002,Autres intermédiations monétaires,10 000 salariés et plus
-Saint-Ismier,SOGERES,572102176,56.29B,52,,,6 RUE DE LA REDOUTE 78280 GUYANCOURT,78280,Autres services de restauration n.c.a.,5 000 à 9 999 salariés
-Saint-Ismier,SODEXO SANTE MEDICO SOCIAL,338253081,56.29A,52,,,6 RUE DE LA REDOUTE 78280 GUYANCOURT,78280,Restauration collective sous contrat,5 000 à 9 999 salariés
-Chasse-sur-Rhône,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Chasse-sur-Rhône,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Chasse-sur-Rhône,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Chasse-sur-Rhône,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Chasse-sur-Rhône,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Chasse-sur-Rhône,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Chasse-sur-Rhône,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-Chasse-sur-Rhône,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Chasse-sur-Rhône,LIDL,343262622,47.11D,53,,,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,Supermarchés,10 000 salariés et plus
-Chasse-sur-Rhône,OGF SERVICES FUNERAIRES,828160069,96.03Z,02,,,IMMEUBLE CANOPY 6 RUE DU GENERAL AUDRAN 92400 COURBEVOIE,92400,Services funéraires,3 à 5 salariés
-La Tronche,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-La Tronche,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-La Tronche,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-La Tronche,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-La Tronche,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-La Tronche,CROIX ROUGE FRANCAISE,775672272,88.99B,53,,,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
-La Tronche,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-La Tronche,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,,,20 RUE EUGENE FLACHAT 75017 PARIS,75017,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
-La Tronche,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-La Tronche,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Corenc,LA POSTE,356000000,53.10Z,53,,,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
-Corenc,ELECTRICITE DE FRANCE,552081317,35.11Z,53,,,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,Production d'électricité,10 000 salariés et plus
-Corenc,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,,,51 CHEMIN DES MECHES 94000 CRETEIL,94000,Autres services de restauration n.c.a.,10 000 salariés et plus
-Corenc,SOCIETE GENERALE,552120222,64.19Z,53,,,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Corenc,SNCF RESEAU,412280737,52.21Z,53,,,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,Services auxiliaires des transports terrestres,10 000 salariés et plus
-Corenc,BNP PARIBAS,662042449,64.19Z,53,,,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,Autres intermédiations monétaires,10 000 salariés et plus
-Corenc,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,,,20 RUE EUGENE FLACHAT 75017 PARIS,75017,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
-Corenc,ORANGE,380129866,61.10Z,53,,,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,Télécommunications filaires,10 000 salariés et plus
-Corenc,COMPASS GROUP FRANCE,632041042,56.29A,53,,,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,Restauration collective sous contrat,10 000 salariés et plus
-Corenc,LIDL,343262622,47.11D,53,,,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,Supermarchés,10 000 salariés et plus
+nom_commune,nom,siren,code_naf,tranche_effectif,adresse,cp_entreprise,latitude,longitude,libelle_naf,libelle_tranche
+GRENOBLE,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.1842,5.7155,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+GRENOBLE,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.1842,5.7155,Production d'électricité,10 000 salariés et plus
+GRENOBLE,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.1842,5.7155,Autres services de restauration n.c.a.,10 000 salariés et plus
+GRENOBLE,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.1842,5.7155,Autres intermédiations monétaires,10 000 salariés et plus
+GRENOBLE,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.1842,5.7155,Services auxiliaires des transports terrestres,10 000 salariés et plus
+GRENOBLE,CROIX ROUGE FRANCAISE,775672272,88.99B,53,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,45.1842,5.7155,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
+GRENOBLE,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.1842,5.7155,Autres intermédiations monétaires,10 000 salariés et plus
+GRENOBLE,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,20 RUE EUGENE FLACHAT 75017 PARIS,75017,45.1842,5.7155,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
+GRENOBLE,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.1842,5.7155,Télécommunications filaires,10 000 salariés et plus
+GRENOBLE,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.1842,5.7155,Restauration collective sous contrat,10 000 salariés et plus
+VOIRON,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.3805,5.5869,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+VOIRON,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.3805,5.5869,Production d'électricité,10 000 salariés et plus
+VOIRON,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.3805,5.5869,Autres services de restauration n.c.a.,10 000 salariés et plus
+VOIRON,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.3805,5.5869,Autres intermédiations monétaires,10 000 salariés et plus
+VOIRON,CROIX ROUGE FRANCAISE,775672272,88.99B,53,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,45.3805,5.5869,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
+VOIRON,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.3805,5.5869,Autres intermédiations monétaires,10 000 salariés et plus
+VOIRON,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,20 RUE EUGENE FLACHAT 75017 PARIS,75017,45.3805,5.5869,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
+VOIRON,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.3805,5.5869,Télécommunications filaires,10 000 salariés et plus
+VOIRON,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.3805,5.5869,Restauration collective sous contrat,10 000 salariés et plus
+VOIRON,LIDL,343262622,47.11D,53,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,45.3805,5.5869,Supermarchés,10 000 salariés et plus
+VIENNE,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.5221,4.8803,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+VIENNE,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.5221,4.8803,Production d'électricité,10 000 salariés et plus
+VIENNE,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.5221,4.8803,Autres services de restauration n.c.a.,10 000 salariés et plus
+VIENNE,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.5221,4.8803,Autres intermédiations monétaires,10 000 salariés et plus
+VIENNE,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.5221,4.8803,Services auxiliaires des transports terrestres,10 000 salariés et plus
+VIENNE,CROIX ROUGE FRANCAISE,775672272,88.99B,53,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,45.5221,4.8803,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
+VIENNE,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.5221,4.8803,Autres intermédiations monétaires,10 000 salariés et plus
+VIENNE,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.5221,4.8803,Télécommunications filaires,10 000 salariés et plus
+VIENNE,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.5221,4.8803,Restauration collective sous contrat,10 000 salariés et plus
+VIENNE,LIDL,343262622,47.11D,53,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,45.5221,4.8803,Supermarchés,10 000 salariés et plus
+BOURGOIN-JALLIEU,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.6025,5.2747,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+BOURGOIN-JALLIEU,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.6025,5.2747,Production d'électricité,10 000 salariés et plus
+BOURGOIN-JALLIEU,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.6025,5.2747,Autres services de restauration n.c.a.,10 000 salariés et plus
+BOURGOIN-JALLIEU,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.6025,5.2747,Autres intermédiations monétaires,10 000 salariés et plus
+BOURGOIN-JALLIEU,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.6025,5.2747,Services auxiliaires des transports terrestres,10 000 salariés et plus
+BOURGOIN-JALLIEU,CROIX ROUGE FRANCAISE,775672272,88.99B,53,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,45.6025,5.2747,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
+BOURGOIN-JALLIEU,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.6025,5.2747,Autres intermédiations monétaires,10 000 salariés et plus
+BOURGOIN-JALLIEU,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,20 RUE EUGENE FLACHAT 75017 PARIS,75017,45.6025,5.2747,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
+BOURGOIN-JALLIEU,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.6025,5.2747,Télécommunications filaires,10 000 salariés et plus
+BOURGOIN-JALLIEU,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.6025,5.2747,Restauration collective sous contrat,10 000 salariés et plus
+ÉCHIROLLES,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.1441,5.7148,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+ÉCHIROLLES,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.1441,5.7148,Production d'électricité,10 000 salariés et plus
+ÉCHIROLLES,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.1441,5.7148,Autres services de restauration n.c.a.,10 000 salariés et plus
+ÉCHIROLLES,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.1441,5.7148,Autres intermédiations monétaires,10 000 salariés et plus
+ÉCHIROLLES,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.1441,5.7148,Services auxiliaires des transports terrestres,10 000 salariés et plus
+ÉCHIROLLES,CROIX ROUGE FRANCAISE,775672272,88.99B,53,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,45.1441,5.7148,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
+ÉCHIROLLES,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.1441,5.7148,Autres intermédiations monétaires,10 000 salariés et plus
+ÉCHIROLLES,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,20 RUE EUGENE FLACHAT 75017 PARIS,75017,45.1441,5.7148,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
+ÉCHIROLLES,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.1441,5.7148,Télécommunications filaires,10 000 salariés et plus
+ÉCHIROLLES,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.1441,5.7148,Restauration collective sous contrat,10 000 salariés et plus
+SAINT-MARTIN-D'HÈRES,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.1782,5.7646,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+SAINT-MARTIN-D'HÈRES,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.1782,5.7646,Production d'électricité,10 000 salariés et plus
+SAINT-MARTIN-D'HÈRES,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.1782,5.7646,Autres services de restauration n.c.a.,10 000 salariés et plus
+SAINT-MARTIN-D'HÈRES,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.1782,5.7646,Autres intermédiations monétaires,10 000 salariés et plus
+SAINT-MARTIN-D'HÈRES,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.1782,5.7646,Services auxiliaires des transports terrestres,10 000 salariés et plus
+SAINT-MARTIN-D'HÈRES,CROIX ROUGE FRANCAISE,775672272,88.99B,53,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,45.1782,5.7646,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
+SAINT-MARTIN-D'HÈRES,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.1782,5.7646,Autres intermédiations monétaires,10 000 salariés et plus
+SAINT-MARTIN-D'HÈRES,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,20 RUE EUGENE FLACHAT 75017 PARIS,75017,45.1782,5.7646,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
+SAINT-MARTIN-D'HÈRES,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.1782,5.7646,Télécommunications filaires,10 000 salariés et plus
+SAINT-MARTIN-D'HÈRES,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.1782,5.7646,Restauration collective sous contrat,10 000 salariés et plus
+VILLEFONTAINE,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.6161,5.1549,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+VILLEFONTAINE,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.6161,5.1549,Production d'électricité,10 000 salariés et plus
+VILLEFONTAINE,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.6161,5.1549,Autres services de restauration n.c.a.,10 000 salariés et plus
+VILLEFONTAINE,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.6161,5.1549,Autres intermédiations monétaires,10 000 salariés et plus
+VILLEFONTAINE,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.6161,5.1549,Services auxiliaires des transports terrestres,10 000 salariés et plus
+VILLEFONTAINE,CROIX ROUGE FRANCAISE,775672272,88.99B,53,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,45.6161,5.1549,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
+VILLEFONTAINE,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.6161,5.1549,Autres intermédiations monétaires,10 000 salariés et plus
+VILLEFONTAINE,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.6161,5.1549,Télécommunications filaires,10 000 salariés et plus
+VILLEFONTAINE,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.6161,5.1549,Restauration collective sous contrat,10 000 salariés et plus
+VILLEFONTAINE,LIDL,343262622,47.11D,53,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,45.6161,5.1549,Supermarchés,10 000 salariés et plus
+CROLLES,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.2816,5.8853,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+CROLLES,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.2816,5.8853,Autres services de restauration n.c.a.,10 000 salariés et plus
+CROLLES,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.2816,5.8853,Autres intermédiations monétaires,10 000 salariés et plus
+CROLLES,CROIX ROUGE FRANCAISE,775672272,88.99B,53,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,45.2816,5.8853,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
+CROLLES,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.2816,5.8853,Autres intermédiations monétaires,10 000 salariés et plus
+CROLLES,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.2816,5.8853,Restauration collective sous contrat,10 000 salariés et plus
+CROLLES,LIDL,343262622,47.11D,53,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,45.2816,5.8853,Supermarchés,10 000 salariés et plus
+CROLLES,SNCF VOYAGEURS,519037584,49.10Z,53,1 RUE CAMILLE MOKE 93210 SAINT-DENIS,93210,45.2816,5.8853,Transport ferroviaire interurbain de voyageurs,10 000 salariés et plus
+CROLLES,CREDIT LYONNAIS,954509741,64.19Z,53,18 RUE DE LA REPUBLIQUE 69002 LYON,69002,45.2816,5.8853,Autres intermédiations monétaires,10 000 salariés et plus
+CROLLES,PICARD SURGELES,784939688,47.11A,52,1 ROUTE MILITAIRE 77300 FONTAINEBLEAU,77300,45.2816,5.8853,Commerce de détail de produits surgelés,5 000 à 9 999 salariés
+MEYLAN,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.2147,5.7865,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+MEYLAN,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.2147,5.7865,Production d'électricité,10 000 salariés et plus
+MEYLAN,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.2147,5.7865,Autres services de restauration n.c.a.,10 000 salariés et plus
+MEYLAN,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.2147,5.7865,Autres intermédiations monétaires,10 000 salariés et plus
+MEYLAN,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.2147,5.7865,Services auxiliaires des transports terrestres,10 000 salariés et plus
+MEYLAN,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.2147,5.7865,Autres intermédiations monétaires,10 000 salariés et plus
+MEYLAN,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,20 RUE EUGENE FLACHAT 75017 PARIS,75017,45.2147,5.7865,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
+MEYLAN,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.2147,5.7865,Télécommunications filaires,10 000 salariés et plus
+MEYLAN,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.2147,5.7865,Restauration collective sous contrat,10 000 salariés et plus
+MEYLAN,LIDL,343262622,47.11D,53,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,45.2147,5.7865,Supermarchés,10 000 salariés et plus
+PONT-DE-CLAIX,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.123,5.7017,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+PONT-DE-CLAIX,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.123,5.7017,Production d'électricité,10 000 salariés et plus
+PONT-DE-CLAIX,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.123,5.7017,Autres services de restauration n.c.a.,10 000 salariés et plus
+PONT-DE-CLAIX,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.123,5.7017,Autres intermédiations monétaires,10 000 salariés et plus
+PONT-DE-CLAIX,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.123,5.7017,Services auxiliaires des transports terrestres,10 000 salariés et plus
+PONT-DE-CLAIX,CROIX ROUGE FRANCAISE,775672272,88.99B,53,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,45.123,5.7017,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
+PONT-DE-CLAIX,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.123,5.7017,Autres intermédiations monétaires,10 000 salariés et plus
+PONT-DE-CLAIX,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,20 RUE EUGENE FLACHAT 75017 PARIS,75017,45.123,5.7017,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
+PONT-DE-CLAIX,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.123,5.7017,Télécommunications filaires,10 000 salariés et plus
+PONT-DE-CLAIX,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.123,5.7017,Restauration collective sous contrat,10 000 salariés et plus
+VIZILLE,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.0728,5.7813,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+VIZILLE,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.0728,5.7813,Production d'électricité,10 000 salariés et plus
+VIZILLE,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.0728,5.7813,Services auxiliaires des transports terrestres,10 000 salariés et plus
+VIZILLE,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.0728,5.7813,Autres intermédiations monétaires,10 000 salariés et plus
+VIZILLE,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.0728,5.7813,Restauration collective sous contrat,10 000 salariés et plus
+VIZILLE,LIDL,343262622,47.11D,53,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,45.0728,5.7813,Supermarchés,10 000 salariés et plus
+VIZILLE,CREDIT LYONNAIS,954509741,64.19Z,53,18 RUE DE LA REPUBLIQUE 69002 LYON,69002,45.0728,5.7813,Autres intermédiations monétaires,10 000 salariés et plus
+VIZILLE,ENEDIS,444608442,35.13Z,53,4 PLACE DE LA PYRAMIDE 92800 PUTEAUX,92800,45.0728,5.7813,Distribution d'électricité,10 000 salariés et plus
+VIZILLE,SODEXO SANTE MEDICO SOCIAL,338253081,56.29A,52,6 RUE DE LA REDOUTE 78280 GUYANCOURT,78280,45.0728,5.7813,Restauration collective sous contrat,5 000 à 9 999 salariés
+VIZILLE,ENGIE ENERGIE SERVICES,552046955,35.30Z,53,67 RUE JULES FERRY 92250 LA GARENNE-COLOMBES,92250,45.0728,5.7813,Production et distribution de vapeur et d'air conditionné,10 000 salariés et plus
+VOREPPE,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.2861,5.6417,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+VOREPPE,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.2861,5.6417,Autres services de restauration n.c.a.,10 000 salariés et plus
+VOREPPE,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.2861,5.6417,Autres intermédiations monétaires,10 000 salariés et plus
+VOREPPE,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.2861,5.6417,Services auxiliaires des transports terrestres,10 000 salariés et plus
+VOREPPE,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.2861,5.6417,Autres intermédiations monétaires,10 000 salariés et plus
+VOREPPE,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,20 RUE EUGENE FLACHAT 75017 PARIS,75017,45.2861,5.6417,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
+VOREPPE,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.2861,5.6417,Restauration collective sous contrat,10 000 salariés et plus
+VOREPPE,MCDONALD'S FRANCE,722003936,68.20B,NN,Z I 1 RUE GUSTAVE EIFFEL 78280 GUYANCOURT,78280,45.2861,5.6417,Location de terrains et d'autres biens immobiliers,Unités non employeuses
+VOREPPE,API RESTAURATION,477181010,56.29A,52,384 RUE DU GENERAL DE GAULLE 59370 MONS-EN-BARŒUL,59370,45.2861,5.6417,Restauration collective sous contrat,5 000 à 9 999 salariés
+VOREPPE,SOGERES,572102176,56.29B,52,6 RUE DE LA REDOUTE 78280 GUYANCOURT,78280,45.2861,5.6417,Autres services de restauration n.c.a.,5 000 à 9 999 salariés
+SASSENAGE,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.2141,5.6541,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+SASSENAGE,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.2141,5.6541,Production d'électricité,10 000 salariés et plus
+SASSENAGE,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.2141,5.6541,Autres services de restauration n.c.a.,10 000 salariés et plus
+SASSENAGE,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.2141,5.6541,Autres intermédiations monétaires,10 000 salariés et plus
+SASSENAGE,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.2141,5.6541,Services auxiliaires des transports terrestres,10 000 salariés et plus
+SASSENAGE,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.2141,5.6541,Autres intermédiations monétaires,10 000 salariés et plus
+SASSENAGE,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,20 RUE EUGENE FLACHAT 75017 PARIS,75017,45.2141,5.6541,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
+SASSENAGE,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.2141,5.6541,Télécommunications filaires,10 000 salariés et plus
+SASSENAGE,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.2141,5.6541,Restauration collective sous contrat,10 000 salariés et plus
+SASSENAGE,LIDL,343262622,47.11D,53,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,45.2141,5.6541,Supermarchés,10 000 salariés et plus
+FONTAINE,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.194,5.6763,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+FONTAINE,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.194,5.6763,Production d'électricité,10 000 salariés et plus
+FONTAINE,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.194,5.6763,Autres services de restauration n.c.a.,10 000 salariés et plus
+FONTAINE,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.194,5.6763,Autres intermédiations monétaires,10 000 salariés et plus
+FONTAINE,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.194,5.6763,Services auxiliaires des transports terrestres,10 000 salariés et plus
+FONTAINE,CROIX ROUGE FRANCAISE,775672272,88.99B,53,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,45.194,5.6763,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
+FONTAINE,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.194,5.6763,Autres intermédiations monétaires,10 000 salariés et plus
+FONTAINE,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,20 RUE EUGENE FLACHAT 75017 PARIS,75017,45.194,5.6763,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
+FONTAINE,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.194,5.6763,Télécommunications filaires,10 000 salariés et plus
+FONTAINE,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.194,5.6763,Restauration collective sous contrat,10 000 salariés et plus
+SAINT-EGRÈVE,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.2315,5.6828,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+SAINT-EGRÈVE,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.2315,5.6828,Production d'électricité,10 000 salariés et plus
+SAINT-EGRÈVE,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.2315,5.6828,Autres services de restauration n.c.a.,10 000 salariés et plus
+SAINT-EGRÈVE,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.2315,5.6828,Autres intermédiations monétaires,10 000 salariés et plus
+SAINT-EGRÈVE,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.2315,5.6828,Services auxiliaires des transports terrestres,10 000 salariés et plus
+SAINT-EGRÈVE,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.2315,5.6828,Autres intermédiations monétaires,10 000 salariés et plus
+SAINT-EGRÈVE,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,20 RUE EUGENE FLACHAT 75017 PARIS,75017,45.2315,5.6828,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
+SAINT-EGRÈVE,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.2315,5.6828,Télécommunications filaires,10 000 salariés et plus
+SAINT-EGRÈVE,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.2315,5.6828,Restauration collective sous contrat,10 000 salariés et plus
+SAINT-EGRÈVE,LIDL,343262622,47.11D,53,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,45.2315,5.6828,Supermarchés,10 000 salariés et plus
+RIVES,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.3606,5.4848,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+RIVES,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.3606,5.4848,Autres services de restauration n.c.a.,10 000 salariés et plus
+RIVES,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.3606,5.4848,Services auxiliaires des transports terrestres,10 000 salariés et plus
+RIVES,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.3606,5.4848,Autres intermédiations monétaires,10 000 salariés et plus
+RIVES,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.3606,5.4848,Télécommunications filaires,10 000 salariés et plus
+RIVES,OGF SERVICES FUNERAIRES,828160069,96.03Z,02,IMMEUBLE CANOPY 6 RUE DU GENERAL AUDRAN 92400 COURBEVOIE,92400,45.3606,5.4848,Services funéraires,3 à 5 salariés
+RIVES,SNCF VOYAGEURS,519037584,49.10Z,53,1 RUE CAMILLE MOKE 93210 SAINT-DENIS,93210,45.3606,5.4848,Transport ferroviaire interurbain de voyageurs,10 000 salariés et plus
+RIVES,MCDONALD'S FRANCE,722003936,68.20B,NN,Z I 1 RUE GUSTAVE EIFFEL 78280 GUYANCOURT,78280,45.3606,5.4848,Location de terrains et d'autres biens immobiliers,Unités non employeuses
+RIVES,ENGIE,542107651,35.23Z,51,67 RUE JULES FERRY 92250 LA GARENNE-COLOMBES,92250,45.3606,5.4848,Commerce de combustibles gazeux par conduites,2 000 à 4 999 salariés
+RIVES,AMPLIFON FRANCE,318083110,47.74Z,42,9 BOULEVARD ROMAIN ROLLAND 75014 PARIS,75014,45.3606,5.4848,Commerce de détail d'articles médicaux et orthopédiques en magasin spécialisé,1 000 à 1 999 salariés
+ROUSSILLON,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.3818,4.8133,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+ROUSSILLON,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.3818,4.8133,Production d'électricité,10 000 salariés et plus
+ROUSSILLON,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.3818,4.8133,Autres intermédiations monétaires,10 000 salariés et plus
+ROUSSILLON,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.3818,4.8133,Autres intermédiations monétaires,10 000 salariés et plus
+ROUSSILLON,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,20 RUE EUGENE FLACHAT 75017 PARIS,75017,45.3818,4.8133,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
+ROUSSILLON,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.3818,4.8133,Télécommunications filaires,10 000 salariés et plus
+ROUSSILLON,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.3818,4.8133,Restauration collective sous contrat,10 000 salariés et plus
+ROUSSILLON,LIDL,343262622,47.11D,53,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,45.3818,4.8133,Supermarchés,10 000 salariés et plus
+ROUSSILLON,SNCF VOYAGEURS,519037584,49.10Z,53,1 RUE CAMILLE MOKE 93210 SAINT-DENIS,93210,45.3818,4.8133,Transport ferroviaire interurbain de voyageurs,10 000 salariés et plus
+ROUSSILLON,CREDIT LYONNAIS,954509741,64.19Z,53,18 RUE DE LA REPUBLIQUE 69002 LYON,69002,45.3818,4.8133,Autres intermédiations monétaires,10 000 salariés et plus
+TULLINS,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.2924,5.4874,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+TULLINS,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.2924,5.4874,Production d'électricité,10 000 salariés et plus
+TULLINS,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.2924,5.4874,Autres services de restauration n.c.a.,10 000 salariés et plus
+TULLINS,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.2924,5.4874,Autres intermédiations monétaires,10 000 salariés et plus
+TULLINS,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.2924,5.4874,Autres intermédiations monétaires,10 000 salariés et plus
+TULLINS,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.2924,5.4874,Restauration collective sous contrat,10 000 salariés et plus
+TULLINS,LIDL,343262622,47.11D,53,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,45.2924,5.4874,Supermarchés,10 000 salariés et plus
+TULLINS,OGF SERVICES FUNERAIRES,828160069,96.03Z,02,IMMEUBLE CANOPY 6 RUE DU GENERAL AUDRAN 92400 COURBEVOIE,92400,45.2924,5.4874,Services funéraires,3 à 5 salariés
+TULLINS,ENEDIS,444608442,35.13Z,53,4 PLACE DE LA PYRAMIDE 92800 PUTEAUX,92800,45.2924,5.4874,Distribution d'électricité,10 000 salariés et plus
+TULLINS,SODEXO SANTE MEDICO SOCIAL,338253081,56.29A,52,6 RUE DE LA REDOUTE 78280 GUYANCOURT,78280,45.2924,5.4874,Restauration collective sous contrat,5 000 à 9 999 salariés
+LA TOUR-DU-PIN,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.5743,5.4459,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+LA TOUR-DU-PIN,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.5743,5.4459,Production d'électricité,10 000 salariés et plus
+LA TOUR-DU-PIN,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.5743,5.4459,Autres intermédiations monétaires,10 000 salariés et plus
+LA TOUR-DU-PIN,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.5743,5.4459,Services auxiliaires des transports terrestres,10 000 salariés et plus
+LA TOUR-DU-PIN,CROIX ROUGE FRANCAISE,775672272,88.99B,53,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,45.5743,5.4459,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
+LA TOUR-DU-PIN,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.5743,5.4459,Autres intermédiations monétaires,10 000 salariés et plus
+LA TOUR-DU-PIN,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,20 RUE EUGENE FLACHAT 75017 PARIS,75017,45.5743,5.4459,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
+LA TOUR-DU-PIN,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.5743,5.4459,Télécommunications filaires,10 000 salariés et plus
+LA TOUR-DU-PIN,LIDL,343262622,47.11D,53,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,45.5743,5.4459,Supermarchés,10 000 salariés et plus
+LA TOUR-DU-PIN,SNCF VOYAGEURS,519037584,49.10Z,53,1 RUE CAMILLE MOKE 93210 SAINT-DENIS,93210,45.5743,5.4459,Transport ferroviaire interurbain de voyageurs,10 000 salariés et plus
+MOIRANS,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.3227,5.5676,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+MOIRANS,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.3227,5.5676,Production d'électricité,10 000 salariés et plus
+MOIRANS,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.3227,5.5676,Autres services de restauration n.c.a.,10 000 salariés et plus
+MOIRANS,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.3227,5.5676,Autres intermédiations monétaires,10 000 salariés et plus
+MOIRANS,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.3227,5.5676,Services auxiliaires des transports terrestres,10 000 salariés et plus
+MOIRANS,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,20 RUE EUGENE FLACHAT 75017 PARIS,75017,45.3227,5.5676,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
+MOIRANS,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.3227,5.5676,Restauration collective sous contrat,10 000 salariés et plus
+MOIRANS,LIDL,343262622,47.11D,53,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,45.3227,5.5676,Supermarchés,10 000 salariés et plus
+MOIRANS,OGF SERVICES FUNERAIRES,828160069,96.03Z,02,IMMEUBLE CANOPY 6 RUE DU GENERAL AUDRAN 92400 COURBEVOIE,92400,45.3227,5.5676,Services funéraires,3 à 5 salariés
+MOIRANS,CREDIT LYONNAIS,954509741,64.19Z,53,18 RUE DE LA REPUBLIQUE 69002 LYON,69002,45.3227,5.5676,Autres intermédiations monétaires,10 000 salariés et plus
+SAINT-MARCELLIN,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.1526,5.3166,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+SAINT-MARCELLIN,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.1526,5.3166,Production d'électricité,10 000 salariés et plus
+SAINT-MARCELLIN,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.1526,5.3166,Autres intermédiations monétaires,10 000 salariés et plus
+SAINT-MARCELLIN,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.1526,5.3166,Services auxiliaires des transports terrestres,10 000 salariés et plus
+SAINT-MARCELLIN,CROIX ROUGE FRANCAISE,775672272,88.99B,53,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,45.1526,5.3166,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
+SAINT-MARCELLIN,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.1526,5.3166,Autres intermédiations monétaires,10 000 salariés et plus
+SAINT-MARCELLIN,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,20 RUE EUGENE FLACHAT 75017 PARIS,75017,45.1526,5.3166,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
+SAINT-MARCELLIN,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.1526,5.3166,Télécommunications filaires,10 000 salariés et plus
+SAINT-MARCELLIN,LIDL,343262622,47.11D,53,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,45.1526,5.3166,Supermarchés,10 000 salariés et plus
+SAINT-MARCELLIN,OGF SERVICES FUNERAIRES,828160069,96.03Z,02,IMMEUBLE CANOPY 6 RUE DU GENERAL AUDRAN 92400 COURBEVOIE,92400,45.1526,5.3166,Services funéraires,3 à 5 salariés
+SAINT-MARTIN-D'URIAGE,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.1568,5.8592,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+SAINT-MARTIN-D'URIAGE,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.1568,5.8592,Autres intermédiations monétaires,10 000 salariés et plus
+SAINT-MARTIN-D'URIAGE,CARREFOUR PROXIMITE FRANCE,345130488,77.40Z,41,ZI ROUTE DE PARIS 14120 MONDEVILLE,14120,45.1568,5.8592,"Location-bail de propriété intellectuelle et de produits similaires, à l'exception des œuvres soumises à copyright",500 à 999 salariés
+SAINT-MARTIN-D'URIAGE,CREDIT LYONNAIS,954509741,64.19Z,53,18 RUE DE LA REPUBLIQUE 69002 LYON,69002,45.1568,5.8592,Autres intermédiations monétaires,10 000 salariés et plus
+SAINT-MARTIN-D'URIAGE,DISTRIBUTION CASINO FRANCE,428268023,47.11F,53,1 COURS ANTOINE GUICHARD 42000 SAINT-ETIENNE,42000,45.1568,5.8592,Hypermarchés,10 000 salariés et plus
+SAINT-MARTIN-D'URIAGE,FONCIA TRANSACTION FRANCE,503698664,68.31Z,42,18-19 - TOUR AURORE 18 PLACE DES REFLETS 92400 COURBEVOIE,92400,45.1568,5.8592,Agences immobilières,1 000 à 1 999 salariés
+SAINT-MARTIN-D'URIAGE,CAISSE CENTRALE ACTIVITE SOCIALE,775694748,56.29A,42,BP 629 8 RUE DE ROSNY 93100 MONTREUIL,93100,45.1568,5.8592,Restauration collective sous contrat,1 000 à 1 999 salariés
+SAINT-MARTIN-D'URIAGE,LYONNAISE DE BANQUE,954507976,64.19Z,51,8 RUE DE LA REPUBLIQUE 69001 LYON,69001,45.1568,5.8592,Autres intermédiations monétaires,2 000 à 4 999 salariés
+SAINT-MARTIN-D'URIAGE,SOCIETE NATIONALE SNCF,552049447,49.10Z,53,2 PLACE AUX ETOILES 93210 SAINT-DENIS,93210,45.1568,5.8592,Transport ferroviaire interurbain de voyageurs,10 000 salariés et plus
+SAINT-MARTIN-D'URIAGE,CAISSE D'EPARGNE ET DE PREVOYANCE DE RHONE ALPES,384006029,64.19Z,51,116 COURS LAFAYETTE 69003 LYON,69003,45.1568,5.8592,Autres intermédiations monétaires,2 000 à 4 999 salariés
+DOMÈNE,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.2053,5.8367,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+DOMÈNE,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.2053,5.8367,Production d'électricité,10 000 salariés et plus
+DOMÈNE,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.2053,5.8367,Autres services de restauration n.c.a.,10 000 salariés et plus
+DOMÈNE,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.2053,5.8367,Autres intermédiations monétaires,10 000 salariés et plus
+DOMÈNE,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.2053,5.8367,Services auxiliaires des transports terrestres,10 000 salariés et plus
+DOMÈNE,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.2053,5.8367,Autres intermédiations monétaires,10 000 salariés et plus
+DOMÈNE,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,20 RUE EUGENE FLACHAT 75017 PARIS,75017,45.2053,5.8367,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
+DOMÈNE,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.2053,5.8367,Télécommunications filaires,10 000 salariés et plus
+DOMÈNE,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.2053,5.8367,Restauration collective sous contrat,10 000 salariés et plus
+DOMÈNE,SNCF VOYAGEURS,519037584,49.10Z,53,1 RUE CAMILLE MOKE 93210 SAINT-DENIS,93210,45.2053,5.8367,Transport ferroviaire interurbain de voyageurs,10 000 salariés et plus
+PONTCHARRA,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.4225,6.0228,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+PONTCHARRA,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.4225,6.0228,Production d'électricité,10 000 salariés et plus
+PONTCHARRA,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.4225,6.0228,Autres intermédiations monétaires,10 000 salariés et plus
+PONTCHARRA,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.4225,6.0228,Services auxiliaires des transports terrestres,10 000 salariés et plus
+PONTCHARRA,CROIX ROUGE FRANCAISE,775672272,88.99B,53,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,45.4225,6.0228,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
+PONTCHARRA,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.4225,6.0228,Autres intermédiations monétaires,10 000 salariés et plus
+PONTCHARRA,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.4225,6.0228,Restauration collective sous contrat,10 000 salariés et plus
+PONTCHARRA,LIDL,343262622,47.11D,53,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,45.4225,6.0228,Supermarchés,10 000 salariés et plus
+PONTCHARRA,SNCF VOYAGEURS,519037584,49.10Z,53,1 RUE CAMILLE MOKE 93210 SAINT-DENIS,93210,45.4225,6.0228,Transport ferroviaire interurbain de voyageurs,10 000 salariés et plus
+PONTCHARRA,CARREFOUR PROXIMITE FRANCE,345130488,77.40Z,41,ZI ROUTE DE PARIS 14120 MONDEVILLE,14120,45.4225,6.0228,"Location-bail de propriété intellectuelle et de produits similaires, à l'exception des œuvres soumises à copyright",500 à 999 salariés
+BOURG-D'OISANS,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.0367,6.0275,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+BOURG-D'OISANS,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.0367,6.0275,Production d'électricité,10 000 salariés et plus
+BOURG-D'OISANS,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.0367,6.0275,Autres intermédiations monétaires,10 000 salariés et plus
+BOURG-D'OISANS,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.0367,6.0275,Autres intermédiations monétaires,10 000 salariés et plus
+BOURG-D'OISANS,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,20 RUE EUGENE FLACHAT 75017 PARIS,75017,45.0367,6.0275,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
+BOURG-D'OISANS,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.0367,6.0275,Télécommunications filaires,10 000 salariés et plus
+BOURG-D'OISANS,CARREFOUR PROXIMITE FRANCE,345130488,77.40Z,41,ZI ROUTE DE PARIS 14120 MONDEVILLE,14120,45.0367,6.0275,"Location-bail de propriété intellectuelle et de produits similaires, à l'exception des œuvres soumises à copyright",500 à 999 salariés
+BOURG-D'OISANS,ENEDIS,444608442,35.13Z,53,4 PLACE DE LA PYRAMIDE 92800 PUTEAUX,92800,45.0367,6.0275,Distribution d'électricité,10 000 salariés et plus
+BOURG-D'OISANS,DISTRIBUTION CASINO FRANCE,428268023,47.11F,53,1 COURS ANTOINE GUICHARD 42000 SAINT-ETIENNE,42000,45.0367,6.0275,Hypermarchés,10 000 salariés et plus
+BOURG-D'OISANS,FIDUCIAL CONSULTING,972200018,82.11Z,42,41 RUE DU CAPITAINE GUYNEMER 92400 COURBEVOIE,92400,45.0367,6.0275,Services administratifs combinés de bureau,1 000 à 1 999 salariés
+VIF,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.043,5.6712,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+VIF,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.043,5.6712,Production d'électricité,10 000 salariés et plus
+VIF,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.043,5.6712,Autres intermédiations monétaires,10 000 salariés et plus
+VIF,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.043,5.6712,Services auxiliaires des transports terrestres,10 000 salariés et plus
+VIF,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.043,5.6712,Autres intermédiations monétaires,10 000 salariés et plus
+VIF,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,20 RUE EUGENE FLACHAT 75017 PARIS,75017,45.043,5.6712,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
+VIF,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.043,5.6712,Restauration collective sous contrat,10 000 salariés et plus
+VIF,API RESTAURATION,477181010,56.29A,52,384 RUE DU GENERAL DE GAULLE 59370 MONS-EN-BARŒUL,59370,45.043,5.6712,Restauration collective sous contrat,5 000 à 9 999 salariés
+VIF,DISTRIBUTION CASINO FRANCE,428268023,47.11F,53,1 COURS ANTOINE GUICHARD 42000 SAINT-ETIENNE,42000,45.043,5.6712,Hypermarchés,10 000 salariés et plus
+VIF,EVANCIA,447818600,88.91A,51,60 AVENUE DE L’EUROPE 92270 BOIS-COLOMBES,92270,45.043,5.6712,Accueil de jeunes enfants,2 000 à 4 999 salariés
+VILLARD-BONNOT,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.2455,5.8837,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+VILLARD-BONNOT,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.2455,5.8837,Autres services de restauration n.c.a.,10 000 salariés et plus
+VILLARD-BONNOT,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.2455,5.8837,Autres intermédiations monétaires,10 000 salariés et plus
+VILLARD-BONNOT,CROIX ROUGE FRANCAISE,775672272,88.99B,53,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,45.2455,5.8837,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
+VILLARD-BONNOT,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.2455,5.8837,Autres intermédiations monétaires,10 000 salariés et plus
+VILLARD-BONNOT,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.2455,5.8837,Restauration collective sous contrat,10 000 salariés et plus
+VILLARD-BONNOT,LIDL,343262622,47.11D,53,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,45.2455,5.8837,Supermarchés,10 000 salariés et plus
+VILLARD-BONNOT,SNCF VOYAGEURS,519037584,49.10Z,53,1 RUE CAMILLE MOKE 93210 SAINT-DENIS,93210,45.2455,5.8837,Transport ferroviaire interurbain de voyageurs,10 000 salariés et plus
+VILLARD-BONNOT,CARREFOUR PROXIMITE FRANCE,345130488,77.40Z,41,ZI ROUTE DE PARIS 14120 MONDEVILLE,14120,45.2455,5.8837,"Location-bail de propriété intellectuelle et de produits similaires, à l'exception des œuvres soumises à copyright",500 à 999 salariés
+VILLARD-BONNOT,CREDIT LYONNAIS,954509741,64.19Z,53,18 RUE DE LA REPUBLIQUE 69002 LYON,69002,45.2455,5.8837,Autres intermédiations monétaires,10 000 salariés et plus
+JARRIE,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.1114,5.7491,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+JARRIE,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.1114,5.7491,Production d'électricité,10 000 salariés et plus
+JARRIE,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.1114,5.7491,Autres services de restauration n.c.a.,10 000 salariés et plus
+JARRIE,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.1114,5.7491,Autres intermédiations monétaires,10 000 salariés et plus
+JARRIE,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.1114,5.7491,Services auxiliaires des transports terrestres,10 000 salariés et plus
+JARRIE,CROIX ROUGE FRANCAISE,775672272,88.99B,53,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,45.1114,5.7491,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
+JARRIE,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.1114,5.7491,Autres intermédiations monétaires,10 000 salariés et plus
+JARRIE,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,20 RUE EUGENE FLACHAT 75017 PARIS,75017,45.1114,5.7491,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
+JARRIE,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.1114,5.7491,Télécommunications filaires,10 000 salariés et plus
+JARRIE,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.1114,5.7491,Restauration collective sous contrat,10 000 salariés et plus
+CHARVIEU-CHAVAGNEUX,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.7386,5.1522,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+CHARVIEU-CHAVAGNEUX,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.7386,5.1522,Production d'électricité,10 000 salariés et plus
+CHARVIEU-CHAVAGNEUX,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.7386,5.1522,Autres intermédiations monétaires,10 000 salariés et plus
+CHARVIEU-CHAVAGNEUX,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.7386,5.1522,Télécommunications filaires,10 000 salariés et plus
+CHARVIEU-CHAVAGNEUX,LIDL,343262622,47.11D,53,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,45.7386,5.1522,Supermarchés,10 000 salariés et plus
+CHARVIEU-CHAVAGNEUX,CARREFOUR PROXIMITE FRANCE,345130488,77.40Z,41,ZI ROUTE DE PARIS 14120 MONDEVILLE,14120,45.7386,5.1522,"Location-bail de propriété intellectuelle et de produits similaires, à l'exception des œuvres soumises à copyright",500 à 999 salariés
+CHARVIEU-CHAVAGNEUX,CREDIT LYONNAIS,954509741,64.19Z,53,18 RUE DE LA REPUBLIQUE 69002 LYON,69002,45.7386,5.1522,Autres intermédiations monétaires,10 000 salariés et plus
+CHARVIEU-CHAVAGNEUX,MCDONALD'S FRANCE,722003936,68.20B,NN,Z I 1 RUE GUSTAVE EIFFEL 78280 GUYANCOURT,78280,45.7386,5.1522,Location de terrains et d'autres biens immobiliers,Unités non employeuses
+CHARVIEU-CHAVAGNEUX,API RESTAURATION,477181010,56.29A,52,384 RUE DU GENERAL DE GAULLE 59370 MONS-EN-BARŒUL,59370,45.7386,5.1522,Restauration collective sous contrat,5 000 à 9 999 salariés
+CHARVIEU-CHAVAGNEUX,SOGERES,572102176,56.29B,52,6 RUE DE LA REDOUTE 78280 GUYANCOURT,78280,45.7386,5.1522,Autres services de restauration n.c.a.,5 000 à 9 999 salariés
+SAINT-QUENTIN-FALLAVIER,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.6392,5.1128,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+SAINT-QUENTIN-FALLAVIER,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.6392,5.1128,Production d'électricité,10 000 salariés et plus
+SAINT-QUENTIN-FALLAVIER,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.6392,5.1128,Autres services de restauration n.c.a.,10 000 salariés et plus
+SAINT-QUENTIN-FALLAVIER,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.6392,5.1128,Autres intermédiations monétaires,10 000 salariés et plus
+SAINT-QUENTIN-FALLAVIER,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.6392,5.1128,Services auxiliaires des transports terrestres,10 000 salariés et plus
+SAINT-QUENTIN-FALLAVIER,CROIX ROUGE FRANCAISE,775672272,88.99B,53,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,45.6392,5.1128,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
+SAINT-QUENTIN-FALLAVIER,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.6392,5.1128,Autres intermédiations monétaires,10 000 salariés et plus
+SAINT-QUENTIN-FALLAVIER,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.6392,5.1128,Télécommunications filaires,10 000 salariés et plus
+SAINT-QUENTIN-FALLAVIER,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.6392,5.1128,Restauration collective sous contrat,10 000 salariés et plus
+SAINT-QUENTIN-FALLAVIER,LIDL,343262622,47.11D,53,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,45.6392,5.1128,Supermarchés,10 000 salariés et plus
+MONTBONNOT-SAINT-MARTIN,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.2213,5.8148,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+MONTBONNOT-SAINT-MARTIN,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.2213,5.8148,Production d'électricité,10 000 salariés et plus
+MONTBONNOT-SAINT-MARTIN,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.2213,5.8148,Autres services de restauration n.c.a.,10 000 salariés et plus
+MONTBONNOT-SAINT-MARTIN,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.2213,5.8148,Autres intermédiations monétaires,10 000 salariés et plus
+MONTBONNOT-SAINT-MARTIN,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.2213,5.8148,Services auxiliaires des transports terrestres,10 000 salariés et plus
+MONTBONNOT-SAINT-MARTIN,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.2213,5.8148,Autres intermédiations monétaires,10 000 salariés et plus
+MONTBONNOT-SAINT-MARTIN,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,20 RUE EUGENE FLACHAT 75017 PARIS,75017,45.2213,5.8148,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
+MONTBONNOT-SAINT-MARTIN,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.2213,5.8148,Télécommunications filaires,10 000 salariés et plus
+MONTBONNOT-SAINT-MARTIN,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.2213,5.8148,Restauration collective sous contrat,10 000 salariés et plus
+MONTBONNOT-SAINT-MARTIN,LIDL,343262622,47.11D,53,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,45.2213,5.8148,Supermarchés,10 000 salariés et plus
+CLAIX,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.1187,5.659,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+CLAIX,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.1187,5.659,Production d'électricité,10 000 salariés et plus
+CLAIX,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.1187,5.659,Autres services de restauration n.c.a.,10 000 salariés et plus
+CLAIX,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.1187,5.659,Autres intermédiations monétaires,10 000 salariés et plus
+CLAIX,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.1187,5.659,Services auxiliaires des transports terrestres,10 000 salariés et plus
+CLAIX,CROIX ROUGE FRANCAISE,775672272,88.99B,53,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,45.1187,5.659,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
+CLAIX,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.1187,5.659,Autres intermédiations monétaires,10 000 salariés et plus
+CLAIX,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.1187,5.659,Télécommunications filaires,10 000 salariés et plus
+CLAIX,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.1187,5.659,Restauration collective sous contrat,10 000 salariés et plus
+CLAIX,CARREFOUR PROXIMITE FRANCE,345130488,77.40Z,41,ZI ROUTE DE PARIS 14120 MONDEVILLE,14120,45.1187,5.659,"Location-bail de propriété intellectuelle et de produits similaires, à l'exception des œuvres soumises à copyright",500 à 999 salariés
+SEYSSINET-PARISET,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.1721,5.6701,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+SEYSSINET-PARISET,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.1721,5.6701,Production d'électricité,10 000 salariés et plus
+SEYSSINET-PARISET,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.1721,5.6701,Autres services de restauration n.c.a.,10 000 salariés et plus
+SEYSSINET-PARISET,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.1721,5.6701,Autres intermédiations monétaires,10 000 salariés et plus
+SEYSSINET-PARISET,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.1721,5.6701,Services auxiliaires des transports terrestres,10 000 salariés et plus
+SEYSSINET-PARISET,CROIX ROUGE FRANCAISE,775672272,88.99B,53,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,45.1721,5.6701,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
+SEYSSINET-PARISET,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.1721,5.6701,Autres intermédiations monétaires,10 000 salariés et plus
+SEYSSINET-PARISET,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,20 RUE EUGENE FLACHAT 75017 PARIS,75017,45.1721,5.6701,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
+SEYSSINET-PARISET,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.1721,5.6701,Télécommunications filaires,10 000 salariés et plus
+SEYSSINET-PARISET,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.1721,5.6701,Restauration collective sous contrat,10 000 salariés et plus
+POISAT,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.1535,5.7701,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+POISAT,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.1535,5.7701,Production d'électricité,10 000 salariés et plus
+POISAT,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.1535,5.7701,Autres services de restauration n.c.a.,10 000 salariés et plus
+POISAT,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.1535,5.7701,Autres intermédiations monétaires,10 000 salariés et plus
+POISAT,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.1535,5.7701,Services auxiliaires des transports terrestres,10 000 salariés et plus
+POISAT,CROIX ROUGE FRANCAISE,775672272,88.99B,53,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,45.1535,5.7701,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
+POISAT,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.1535,5.7701,Autres intermédiations monétaires,10 000 salariés et plus
+POISAT,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,20 RUE EUGENE FLACHAT 75017 PARIS,75017,45.1535,5.7701,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
+POISAT,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.1535,5.7701,Télécommunications filaires,10 000 salariés et plus
+POISAT,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.1535,5.7701,Restauration collective sous contrat,10 000 salariés et plus
+GIÈRES,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.1828,5.7902,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+GIÈRES,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.1828,5.7902,Production d'électricité,10 000 salariés et plus
+GIÈRES,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.1828,5.7902,Autres services de restauration n.c.a.,10 000 salariés et plus
+GIÈRES,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.1828,5.7902,Autres intermédiations monétaires,10 000 salariés et plus
+GIÈRES,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.1828,5.7902,Services auxiliaires des transports terrestres,10 000 salariés et plus
+GIÈRES,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.1828,5.7902,Autres intermédiations monétaires,10 000 salariés et plus
+GIÈRES,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,20 RUE EUGENE FLACHAT 75017 PARIS,75017,45.1828,5.7902,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
+GIÈRES,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.1828,5.7902,Télécommunications filaires,10 000 salariés et plus
+GIÈRES,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.1828,5.7902,Restauration collective sous contrat,10 000 salariés et plus
+GIÈRES,LIDL,343262622,47.11D,53,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,45.1828,5.7902,Supermarchés,10 000 salariés et plus
+EYBENS,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.1526,5.7487,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+EYBENS,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.1526,5.7487,Production d'électricité,10 000 salariés et plus
+EYBENS,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.1526,5.7487,Autres services de restauration n.c.a.,10 000 salariés et plus
+EYBENS,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.1526,5.7487,Autres intermédiations monétaires,10 000 salariés et plus
+EYBENS,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.1526,5.7487,Services auxiliaires des transports terrestres,10 000 salariés et plus
+EYBENS,CROIX ROUGE FRANCAISE,775672272,88.99B,53,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,45.1526,5.7487,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
+EYBENS,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.1526,5.7487,Autres intermédiations monétaires,10 000 salariés et plus
+EYBENS,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,20 RUE EUGENE FLACHAT 75017 PARIS,75017,45.1526,5.7487,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
+EYBENS,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.1526,5.7487,Télécommunications filaires,10 000 salariés et plus
+EYBENS,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.1526,5.7487,Restauration collective sous contrat,10 000 salariés et plus
+BRESSON,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.133,5.7498,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+BRESSON,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.133,5.7498,Production d'électricité,10 000 salariés et plus
+BRESSON,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.133,5.7498,Autres services de restauration n.c.a.,10 000 salariés et plus
+BRESSON,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.133,5.7498,Autres intermédiations monétaires,10 000 salariés et plus
+BRESSON,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.133,5.7498,Services auxiliaires des transports terrestres,10 000 salariés et plus
+BRESSON,CROIX ROUGE FRANCAISE,775672272,88.99B,53,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,45.133,5.7498,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
+BRESSON,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.133,5.7498,Autres intermédiations monétaires,10 000 salariés et plus
+BRESSON,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,20 RUE EUGENE FLACHAT 75017 PARIS,75017,45.133,5.7498,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
+BRESSON,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.133,5.7498,Télécommunications filaires,10 000 salariés et plus
+BRESSON,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.133,5.7498,Restauration collective sous contrat,10 000 salariés et plus
+VARCES-ALLIÈRES-ET-RISSET,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.0884,5.6699,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+VARCES-ALLIÈRES-ET-RISSET,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.0884,5.6699,Production d'électricité,10 000 salariés et plus
+VARCES-ALLIÈRES-ET-RISSET,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.0884,5.6699,Autres services de restauration n.c.a.,10 000 salariés et plus
+VARCES-ALLIÈRES-ET-RISSET,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.0884,5.6699,Autres intermédiations monétaires,10 000 salariés et plus
+VARCES-ALLIÈRES-ET-RISSET,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.0884,5.6699,Services auxiliaires des transports terrestres,10 000 salariés et plus
+VARCES-ALLIÈRES-ET-RISSET,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.0884,5.6699,Autres intermédiations monétaires,10 000 salariés et plus
+VARCES-ALLIÈRES-ET-RISSET,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,20 RUE EUGENE FLACHAT 75017 PARIS,75017,45.0884,5.6699,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
+VARCES-ALLIÈRES-ET-RISSET,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.0884,5.6699,Restauration collective sous contrat,10 000 salariés et plus
+VARCES-ALLIÈRES-ET-RISSET,CARREFOUR PROXIMITE FRANCE,345130488,77.40Z,41,ZI ROUTE DE PARIS 14120 MONDEVILLE,14120,45.0884,5.6699,"Location-bail de propriété intellectuelle et de produits similaires, à l'exception des œuvres soumises à copyright",500 à 999 salariés
+VARCES-ALLIÈRES-ET-RISSET,CREDIT LYONNAIS,954509741,64.19Z,53,18 RUE DE LA REPUBLIQUE 69002 LYON,69002,45.0884,5.6699,Autres intermédiations monétaires,10 000 salariés et plus
+CHAMPAGNIER,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.1128,5.7213,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+CHAMPAGNIER,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.1128,5.7213,Production d'électricité,10 000 salariés et plus
+CHAMPAGNIER,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.1128,5.7213,Autres services de restauration n.c.a.,10 000 salariés et plus
+CHAMPAGNIER,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.1128,5.7213,Autres intermédiations monétaires,10 000 salariés et plus
+CHAMPAGNIER,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.1128,5.7213,Services auxiliaires des transports terrestres,10 000 salariés et plus
+CHAMPAGNIER,CROIX ROUGE FRANCAISE,775672272,88.99B,53,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,45.1128,5.7213,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
+CHAMPAGNIER,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.1128,5.7213,Autres intermédiations monétaires,10 000 salariés et plus
+CHAMPAGNIER,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,20 RUE EUGENE FLACHAT 75017 PARIS,75017,45.1128,5.7213,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
+CHAMPAGNIER,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.1128,5.7213,Télécommunications filaires,10 000 salariés et plus
+CHAMPAGNIER,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.1128,5.7213,Restauration collective sous contrat,10 000 salariés et plus
+MURIANETTE,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.1895,5.8259,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+MURIANETTE,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.1895,5.8259,Production d'électricité,10 000 salariés et plus
+MURIANETTE,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.1895,5.8259,Autres services de restauration n.c.a.,10 000 salariés et plus
+MURIANETTE,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.1895,5.8259,Autres intermédiations monétaires,10 000 salariés et plus
+MURIANETTE,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.1895,5.8259,Services auxiliaires des transports terrestres,10 000 salariés et plus
+MURIANETTE,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.1895,5.8259,Autres intermédiations monétaires,10 000 salariés et plus
+MURIANETTE,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,20 RUE EUGENE FLACHAT 75017 PARIS,75017,45.1895,5.8259,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
+MURIANETTE,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.1895,5.8259,Télécommunications filaires,10 000 salariés et plus
+MURIANETTE,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.1895,5.8259,Restauration collective sous contrat,10 000 salariés et plus
+MURIANETTE,LIDL,343262622,47.11D,53,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,45.1895,5.8259,Supermarchés,10 000 salariés et plus
+SEYSSINS,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.1578,5.6697,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+SEYSSINS,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.1578,5.6697,Production d'électricité,10 000 salariés et plus
+SEYSSINS,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.1578,5.6697,Autres services de restauration n.c.a.,10 000 salariés et plus
+SEYSSINS,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.1578,5.6697,Autres intermédiations monétaires,10 000 salariés et plus
+SEYSSINS,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.1578,5.6697,Services auxiliaires des transports terrestres,10 000 salariés et plus
+SEYSSINS,CROIX ROUGE FRANCAISE,775672272,88.99B,53,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,45.1578,5.6697,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
+SEYSSINS,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.1578,5.6697,Autres intermédiations monétaires,10 000 salariés et plus
+SEYSSINS,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,20 RUE EUGENE FLACHAT 75017 PARIS,75017,45.1578,5.6697,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
+SEYSSINS,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.1578,5.6697,Télécommunications filaires,10 000 salariés et plus
+SEYSSINS,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.1578,5.6697,Restauration collective sous contrat,10 000 salariés et plus
+SAINT-PAUL-DE-VARCES,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.0646,5.6319,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+SAINT-PAUL-DE-VARCES,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.0646,5.6319,Production d'électricité,10 000 salariés et plus
+SAINT-PAUL-DE-VARCES,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.0646,5.6319,Autres intermédiations monétaires,10 000 salariés et plus
+SAINT-PAUL-DE-VARCES,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.0646,5.6319,Services auxiliaires des transports terrestres,10 000 salariés et plus
+SAINT-PAUL-DE-VARCES,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.0646,5.6319,Autres intermédiations monétaires,10 000 salariés et plus
+SAINT-PAUL-DE-VARCES,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,20 RUE EUGENE FLACHAT 75017 PARIS,75017,45.0646,5.6319,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
+SAINT-PAUL-DE-VARCES,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.0646,5.6319,Restauration collective sous contrat,10 000 salariés et plus
+SAINT-PAUL-DE-VARCES,DISTRIBUTION CASINO FRANCE,428268023,47.11F,53,1 COURS ANTOINE GUICHARD 42000 SAINT-ETIENNE,42000,45.0646,5.6319,Hypermarchés,10 000 salariés et plus
+SAINT-PAUL-DE-VARCES,CAP SUD FRANCE,531757029,43.22B,NN,85 RUE CONDORCET 38090 VAULX-MILIEU,38090,45.0646,5.6319,Travaux d'installation d'équipements thermiques et de climatisation,Unités non employeuses
+SAINT-PAUL-DE-VARCES,EVANCIA,447818600,88.91A,51,60 AVENUE DE L’EUROPE 92270 BOIS-COLOMBES,92270,45.0646,5.6319,Accueil de jeunes enfants,2 000 à 4 999 salariés
+VEUREY-VOROIZE,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.2713,5.6042,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+VEUREY-VOROIZE,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.2713,5.6042,Autres services de restauration n.c.a.,10 000 salariés et plus
+VEUREY-VOROIZE,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.2713,5.6042,Autres intermédiations monétaires,10 000 salariés et plus
+VEUREY-VOROIZE,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.2713,5.6042,Services auxiliaires des transports terrestres,10 000 salariés et plus
+VEUREY-VOROIZE,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.2713,5.6042,Autres intermédiations monétaires,10 000 salariés et plus
+VEUREY-VOROIZE,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,20 RUE EUGENE FLACHAT 75017 PARIS,75017,45.2713,5.6042,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
+VEUREY-VOROIZE,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.2713,5.6042,Restauration collective sous contrat,10 000 salariés et plus
+VEUREY-VOROIZE,MCDONALD'S FRANCE,722003936,68.20B,NN,Z I 1 RUE GUSTAVE EIFFEL 78280 GUYANCOURT,78280,45.2713,5.6042,Location de terrains et d'autres biens immobiliers,Unités non employeuses
+VEUREY-VOROIZE,API RESTAURATION,477181010,56.29A,52,384 RUE DU GENERAL DE GAULLE 59370 MONS-EN-BARŒUL,59370,45.2713,5.6042,Restauration collective sous contrat,5 000 à 9 999 salariés
+VEUREY-VOROIZE,SOGERES,572102176,56.29B,52,6 RUE DE LA REDOUTE 78280 GUYANCOURT,78280,45.2713,5.6042,Autres services de restauration n.c.a.,5 000 à 9 999 salariés
+NOYAREY,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.2418,5.62,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+NOYAREY,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.2418,5.62,Production d'électricité,10 000 salariés et plus
+NOYAREY,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.2418,5.62,Autres services de restauration n.c.a.,10 000 salariés et plus
+NOYAREY,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.2418,5.62,Autres intermédiations monétaires,10 000 salariés et plus
+NOYAREY,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.2418,5.62,Télécommunications filaires,10 000 salariés et plus
+NOYAREY,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.2418,5.62,Restauration collective sous contrat,10 000 salariés et plus
+NOYAREY,CREDIT LYONNAIS,954509741,64.19Z,53,18 RUE DE LA REPUBLIQUE 69002 LYON,69002,45.2418,5.62,Autres intermédiations monétaires,10 000 salariés et plus
+NOYAREY,PICARD SURGELES,784939688,47.11A,52,1 ROUTE MILITAIRE 77300 FONTAINEBLEAU,77300,45.2418,5.62,Commerce de détail de produits surgelés,5 000 à 9 999 salariés
+NOYAREY,SODEXO ENTREPRISES,338253230,56.29A,52,6 RUE DE LA REDOUTE 78280 GUYANCOURT,78280,45.2418,5.62,Restauration collective sous contrat,5 000 à 9 999 salariés
+NOYAREY,SODEXO SANTE MEDICO SOCIAL,338253081,56.29A,52,6 RUE DE LA REDOUTE 78280 GUYANCOURT,78280,45.2418,5.62,Restauration collective sous contrat,5 000 à 9 999 salariés
+QUAIX-EN-CHARTREUSE,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.2591,5.7302,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+QUAIX-EN-CHARTREUSE,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.2591,5.7302,Autres services de restauration n.c.a.,10 000 salariés et plus
+QUAIX-EN-CHARTREUSE,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.2591,5.7302,Autres intermédiations monétaires,10 000 salariés et plus
+QUAIX-EN-CHARTREUSE,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.2591,5.7302,Autres intermédiations monétaires,10 000 salariés et plus
+QUAIX-EN-CHARTREUSE,CREDIT LYONNAIS,954509741,64.19Z,53,18 RUE DE LA REPUBLIQUE 69002 LYON,69002,45.2591,5.7302,Autres intermédiations monétaires,10 000 salariés et plus
+QUAIX-EN-CHARTREUSE,SODEXO SANTE MEDICO SOCIAL,338253081,56.29A,52,6 RUE DE LA REDOUTE 78280 GUYANCOURT,78280,45.2591,5.7302,Restauration collective sous contrat,5 000 à 9 999 salariés
+QUAIX-EN-CHARTREUSE,DISTRIBUTION CASINO FRANCE,428268023,47.11F,53,1 COURS ANTOINE GUICHARD 42000 SAINT-ETIENNE,42000,45.2591,5.7302,Hypermarchés,10 000 salariés et plus
+QUAIX-EN-CHARTREUSE,MACIF,781452511,65.12Z,53,1 RUE JACQUES VANDIER 79000 NIORT,79000,45.2591,5.7302,Autres assurances,10 000 salariés et plus
+QUAIX-EN-CHARTREUSE,LYONNAISE DE BANQUE,954507976,64.19Z,51,8 RUE DE LA REPUBLIQUE 69001 LYON,69001,45.2591,5.7302,Autres intermédiations monétaires,2 000 à 4 999 salariés
+QUAIX-EN-CHARTREUSE,GROUPAMA RHONE ALPES AUVERGNE,779838366,65.12Z,51,50 RUE DE SAINT-CYR 69009 LYON,69009,45.2591,5.7302,Autres assurances,2 000 à 4 999 salariés
+SAINT-ISMIER,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.2503,5.8274,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+SAINT-ISMIER,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.2503,5.8274,Autres services de restauration n.c.a.,10 000 salariés et plus
+SAINT-ISMIER,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.2503,5.8274,Autres intermédiations monétaires,10 000 salariés et plus
+SAINT-ISMIER,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.2503,5.8274,Autres intermédiations monétaires,10 000 salariés et plus
+SAINT-ISMIER,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.2503,5.8274,Télécommunications filaires,10 000 salariés et plus
+SAINT-ISMIER,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.2503,5.8274,Restauration collective sous contrat,10 000 salariés et plus
+SAINT-ISMIER,CARREFOUR PROXIMITE FRANCE,345130488,77.40Z,41,ZI ROUTE DE PARIS 14120 MONDEVILLE,14120,45.2503,5.8274,"Location-bail de propriété intellectuelle et de produits similaires, à l'exception des œuvres soumises à copyright",500 à 999 salariés
+SAINT-ISMIER,CREDIT LYONNAIS,954509741,64.19Z,53,18 RUE DE LA REPUBLIQUE 69002 LYON,69002,45.2503,5.8274,Autres intermédiations monétaires,10 000 salariés et plus
+SAINT-ISMIER,SOGERES,572102176,56.29B,52,6 RUE DE LA REDOUTE 78280 GUYANCOURT,78280,45.2503,5.8274,Autres services de restauration n.c.a.,5 000 à 9 999 salariés
+SAINT-ISMIER,SODEXO SANTE MEDICO SOCIAL,338253081,56.29A,52,6 RUE DE LA REDOUTE 78280 GUYANCOURT,78280,45.2503,5.8274,Restauration collective sous contrat,5 000 à 9 999 salariés
+CHASSE-SUR-RHÔNE,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.578,4.8129,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+CHASSE-SUR-RHÔNE,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.578,4.8129,Production d'électricité,10 000 salariés et plus
+CHASSE-SUR-RHÔNE,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.578,4.8129,Autres services de restauration n.c.a.,10 000 salariés et plus
+CHASSE-SUR-RHÔNE,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.578,4.8129,Autres intermédiations monétaires,10 000 salariés et plus
+CHASSE-SUR-RHÔNE,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.578,4.8129,Services auxiliaires des transports terrestres,10 000 salariés et plus
+CHASSE-SUR-RHÔNE,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.578,4.8129,Autres intermédiations monétaires,10 000 salariés et plus
+CHASSE-SUR-RHÔNE,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.578,4.8129,Télécommunications filaires,10 000 salariés et plus
+CHASSE-SUR-RHÔNE,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.578,4.8129,Restauration collective sous contrat,10 000 salariés et plus
+CHASSE-SUR-RHÔNE,LIDL,343262622,47.11D,53,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,45.578,4.8129,Supermarchés,10 000 salariés et plus
+CHASSE-SUR-RHÔNE,OGF SERVICES FUNERAIRES,828160069,96.03Z,02,IMMEUBLE CANOPY 6 RUE DU GENERAL AUDRAN 92400 COURBEVOIE,92400,45.578,4.8129,Services funéraires,3 à 5 salariés
+LA TRONCHE,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.2117,5.7443,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+LA TRONCHE,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.2117,5.7443,Production d'électricité,10 000 salariés et plus
+LA TRONCHE,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.2117,5.7443,Autres services de restauration n.c.a.,10 000 salariés et plus
+LA TRONCHE,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.2117,5.7443,Autres intermédiations monétaires,10 000 salariés et plus
+LA TRONCHE,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.2117,5.7443,Services auxiliaires des transports terrestres,10 000 salariés et plus
+LA TRONCHE,CROIX ROUGE FRANCAISE,775672272,88.99B,53,SITE CROIX ROUGE 98 RUE DIDOT 75014 PARIS,75014,45.2117,5.7443,Action sociale sans hébergement n.c.a.,10 000 salariés et plus
+LA TRONCHE,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.2117,5.7443,Autres intermédiations monétaires,10 000 salariés et plus
+LA TRONCHE,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,20 RUE EUGENE FLACHAT 75017 PARIS,75017,45.2117,5.7443,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
+LA TRONCHE,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.2117,5.7443,Télécommunications filaires,10 000 salariés et plus
+LA TRONCHE,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.2117,5.7443,Restauration collective sous contrat,10 000 salariés et plus
+CORENC,LA POSTE,356000000,53.10Z,53,DIRECTION GENERALE DE LA POSTE 9 RUE DU COLONEL PIERRE AVIA 75015 PARIS,75015,45.2264,5.7599,Activités de poste dans le cadre d'une obligation de service universel,10 000 salariés et plus
+CORENC,ELECTRICITE DE FRANCE,552081317,35.11Z,53,22-30 22 AVENUE DE WAGRAM 75008 PARIS,75008,45.2264,5.7599,Production d'électricité,10 000 salariés et plus
+CORENC,ELIOR RESTAURATION FRANCE,662025196,56.29B,53,51 CHEMIN DES MECHES 94000 CRETEIL,94000,45.2264,5.7599,Autres services de restauration n.c.a.,10 000 salariés et plus
+CORENC,SOCIETE GENERALE,552120222,64.19Z,53,29 BOULEVARD HAUSSMANN 75009 PARIS,75009,45.2264,5.7599,Autres intermédiations monétaires,10 000 salariés et plus
+CORENC,SNCF RESEAU,412280737,52.21Z,53,15 AU 17 15 RUE JEAN-PHILIPPE RAMEAU 93200 SAINT-DENIS,93200,45.2264,5.7599,Services auxiliaires des transports terrestres,10 000 salariés et plus
+CORENC,BNP PARIBAS,662042449,64.19Z,53,16 BOULEVARD DES ITALIENS 75009 PARIS,75009,45.2264,5.7599,Autres intermédiations monétaires,10 000 salariés et plus
+CORENC,LE SOUVENIR FRANCAIS,775676182,94.99Z,11,20 RUE EUGENE FLACHAT 75017 PARIS,75017,45.2264,5.7599,Autres organisations fonctionnant par adhésion volontaire,10 à 19 salariés
+CORENC,ORANGE,380129866,61.10Z,53,111 QUAI DU PRESIDENT ROOSEVELT 92130 ISSY-LES-MOULINEAUX,92130,45.2264,5.7599,Télécommunications filaires,10 000 salariés et plus
+CORENC,COMPASS GROUP FRANCE,632041042,56.29A,53,15 BOULEVARD GABRIEL PERI 92240 MALAKOFF,92240,45.2264,5.7599,Restauration collective sous contrat,10 000 salariés et plus
+CORENC,LIDL,343262622,47.11D,53,1 RUE DE HANOVRE 92290 CHATENAY-MALABRY,92290,45.2264,5.7599,Supermarchés,10 000 salariés et plus
